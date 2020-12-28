@@ -1,0 +1,139 @@
+WEBVTT
+
+00:04.590 --> 00:10.320
+Whenever we are designing something or planning something even we are building a new house.
+
+00:10.350 --> 00:17.970
+We actually draw some diagrams and models of that house and explain and how all the rooms will be planned.
+
+00:17.970 --> 00:24.420
+Then once that room has been planned we go into details what we will be play if we will be placing in
+
+00:24.420 --> 00:28.220
+each room we will be blessing so forward here.
+
+00:28.590 --> 00:32.990
+That tap will be over here and the TV station will be over here.
+
+00:33.000 --> 00:34.170
+Things like that.
+
+00:34.170 --> 00:40.680
+So in user expense design similarly we have two types of model simple models where we are going to view
+
+00:40.680 --> 00:44.170
+from a bird's eye view and they are not very detailed.
+
+00:44.170 --> 00:45.720
+Then we have detailed models.
+
+00:45.750 --> 00:51.000
+So in this lesson we are going to see some of the diagrams or models we are going to look at during
+
+00:51.000 --> 00:51.690
+our process.
+
+00:51.720 --> 00:53.350
+So let's go ahead now.
+
+00:53.430 --> 00:55.590
+There are simple models that use Express design.
+
+00:55.590 --> 01:01.710
+Few are like system models how your whole system is going to work then user journey maps what are different
+
+01:01.710 --> 01:06.780
+touch points where our users are actually connecting with our product.
+
+01:06.810 --> 01:13.560
+User stories there will be long stories a visual story of your user using your whole product or there
+
+01:13.560 --> 01:21.180
+will be short single line stories about the usage of your app now then we are going to move into more
+
+01:21.180 --> 01:28.680
+detailed models like user scenarios where we have very long scenarios are users using your app in his
+
+01:28.680 --> 01:30.760
+room or things like that.
+
+01:31.050 --> 01:33.710
+Then we have task interaction models.
+
+01:33.720 --> 01:40.980
+So there will be tasks our users will be performing dogs tasks and we are going to show all the interactions
+
+01:41.010 --> 01:42.520
+during that task.
+
+01:42.660 --> 01:48.210
+So there could be like ten different tasks on maybe 20 different tasks a user can do.
+
+01:48.390 --> 01:55.710
+So we have to make each task the model for each task so it is in more detail than we have use case diagrams
+
+01:55.710 --> 02:01.920
+how our users are actually going to interact with the system and how the system is going to reply back
+
+02:01.950 --> 02:02.950
+and things like that.
+
+02:02.990 --> 02:08.130
+Now along this whole journey of creating user expense diagram and models there are two things you need
+
+02:08.130 --> 02:09.090
+to keep in mind.
+
+02:09.090 --> 02:11.210
+One thing is feature roadmap.
+
+02:11.250 --> 02:16.740
+We already decided that we are not going to develop these features or we might develop these features
+
+02:16.740 --> 02:18.040
+in the next six months.
+
+02:18.630 --> 02:22.890
+So you need to create a roadmap diagram of your product.
+
+02:22.890 --> 02:27.990
+So in the first three months we are going to launch these three essential features.
+
+02:27.990 --> 02:35.990
+Then in the next one we are going to launch these four features and similarly move on to the next.
+
+02:36.030 --> 02:43.530
+It will be based on what we did in feature matrix which features unnecessary and essential for your
+
+02:43.530 --> 02:44.650
+users.
+
+02:44.670 --> 02:49.550
+So design principles and guidelines is a bit different story.
+
+02:49.550 --> 02:55.320
+It is actually the boundary of your design and the direction of your design.
+
+02:55.350 --> 03:04.270
+You want your app to be conservative or you want your app to be used by just professionals or you wanted
+
+03:04.290 --> 03:09.330
+to be invited by other designers and white only app things like that.
+
+03:09.330 --> 03:15.750
+There must be some principles that are going to guide your design that we want it to be intuitive and
+
+03:15.750 --> 03:19.650
+we want it to be inviting and things like that.
+
+03:19.800 --> 03:23.820
+They are not really related to what features that you are going to develop but they are actually the
+
+03:23.820 --> 03:27.240
+guides that in which direction that design will go.
+
+03:27.250 --> 03:32.040
+Now let us start with our first model which is system model in the next lesson.
+
+03:32.080 --> 03:33.480
+Let's move on to the next lesson.

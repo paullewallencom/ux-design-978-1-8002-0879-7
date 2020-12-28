@@ -1,0 +1,193 @@
+WEBVTT
+
+00:05.300 --> 00:11.810
+In this lesson we are going to learn about user stories and in the previous lessons we have learned
+
+00:11.870 --> 00:16.120
+about user scenarios so using scenarios are the short story.
+
+00:16.130 --> 00:22.750
+Sometimes a bit long but they are mostly in a story format which shows all the soundings like a story.
+
+00:22.880 --> 00:25.130
+What is happening what was happening outside.
+
+00:25.160 --> 00:30.130
+Things like that but user stories even the name is user story.
+
+00:30.140 --> 00:35.860
+They are very short one line sentence and they are going to show the user requirements.
+
+00:35.950 --> 00:37.430
+Okay so they are coming from.
+
+00:37.430 --> 00:44.300
+They will be written in a format which is from users perspective that this is the need of the user.
+
+00:44.300 --> 00:47.440
+And this is how they are going to interact with the system.
+
+00:47.630 --> 00:54.560
+And this is the benefit they will get from this interaction so juicy stories are attached to personas.
+
+00:54.560 --> 00:57.320
+Are your users or VLC rules.
+
+00:57.470 --> 01:04.580
+So it is actually you can say requirements gathering for all your work roles and personas.
+
+01:04.590 --> 01:09.360
+Now let's see how we are going to write a user story so the user story format.
+
+01:09.360 --> 01:11.830
+It is very simple very straightforward.
+
+01:12.030 --> 01:18.720
+As a user and at the place of the user you can use a Volcker rule like in my case it could be administrator
+
+01:18.770 --> 01:19.760
+of my site.
+
+01:19.920 --> 01:27.180
+It could be C or who is willing to see the reports sales reports and then their need.
+
+01:27.210 --> 01:30.920
+I want to have this or I have on to have this feature.
+
+01:31.050 --> 01:36.360
+I want to be able to do this so that I can get this benefit.
+
+01:36.370 --> 01:39.090
+So why actually do they need this feature.
+
+01:39.090 --> 01:43.950
+So we also want to have both the need and its benefit.
+
+01:43.950 --> 01:51.300
+What actually is they are going to get from it so you can see in my frog land example you can see it's
+
+01:52.120 --> 01:58.800
+a busy mom busy dad or college dean they are actually the users or personas and benefit is of a value
+
+01:58.830 --> 02:06.690
+they are going to get out of using my system or my product like saving time like maybe ordering before
+
+02:06.690 --> 02:14.690
+the summer or automate my workflow automate my things things like that now here are a few user stories
+
+02:14.780 --> 02:19.290
+from my fraud land startup and you can see we're here as an administrator.
+
+02:19.400 --> 02:26.330
+I want to create edit and delete products easily so I can save time and manage my products so we can
+
+02:26.390 --> 02:31.690
+also separate them in each sentence like create products added products DEET products.
+
+02:31.700 --> 02:36.760
+Or we can mix them all into one use a story that is up to you.
+
+02:36.950 --> 02:43.340
+Then we have a busy mom so you can see the need of a busy mom is I want to order using WhatsApp number
+
+02:44.090 --> 02:47.200
+only so I can feel safe and order without e-mail.
+
+02:47.240 --> 02:53.960
+So actually the what is the benefit they have aren't they actually their problem is they want to feel
+
+02:53.960 --> 02:55.980
+safe and order without an email.
+
+02:56.270 --> 02:59.150
+So it could not be always a WhatsApp number.
+
+02:59.150 --> 03:05.270
+This is up to us to decide in the design process our implementation process that how we can make our
+
+03:05.270 --> 03:10.210
+website secure and we can let our users order without email.
+
+03:10.280 --> 03:16.240
+Maybe they can log in using a phone number or mobile number.
+
+03:16.280 --> 03:17.840
+So this is open.
+
+03:17.840 --> 03:18.650
+Okay.
+
+03:18.980 --> 03:24.530
+Then we have the third which is another college girl or teen girl which was another our archetype in
+
+03:24.530 --> 03:28.160
+our personas as a college girl or teenage girl.
+
+03:28.160 --> 03:33.890
+I want to get my package within two days so the package dies before my sister's birthday.
+
+03:33.890 --> 03:37.400
+So this is actually a user need that they want to track their package.
+
+03:37.400 --> 03:41.080
+They want to see when it is going to be delivered.
+
+03:41.300 --> 03:47.560
+Will it be in the morning or will they be receiving it in the noon afternoon or whatever.
+
+03:47.870 --> 03:52.160
+So this is actually another user need and their benefit.
+
+03:52.160 --> 03:56.960
+They are going to get from them attached to user personas so this is all about user stories.
+
+03:56.960 --> 03:58.630
+They are very simple very easy.
+
+03:58.910 --> 04:06.490
+Now why do we write user stories so actually we write them so we can get what will be the cost.
+
+04:06.500 --> 04:11.550
+So actually in from these whole user stories we are going to get that requirement.
+
+04:11.570 --> 04:20.210
+So these are the features we want to build in our product to compensate or to fulfill these user needs
+
+04:20.270 --> 04:23.060
+and these user satisfactions.
+
+04:23.060 --> 04:24.090
+So we have the list.
+
+04:24.110 --> 04:31.490
+Now we have all the list of all the features or functions users and our vulnerable wants and why actually
+
+04:31.490 --> 04:38.300
+divorced it so we can easily estimate no costs and development times what are or what are the features
+
+04:38.300 --> 04:40.210
+we actually want to build.
+
+04:40.220 --> 04:46.760
+What are the features we can't build because of the cost limitations or development time limitation.
+
+04:47.060 --> 04:53.720
+We can also discuss with our stakeholders different stakeholders EU and other people that these are
+
+04:53.720 --> 04:57.020
+the things we cannot fulfill or these other user stories.
+
+04:57.020 --> 04:59.590
+We cannot sort out right now.
+
+04:59.600 --> 05:03.370
+Maybe in the next please we can fulfill them.
+
+05:03.410 --> 05:04.910
+So this is all about user stories.
+
+05:04.910 --> 05:11.600
+I am going to give you templates and an exercise to create some user stories so let's move on to the
+
+05:11.600 --> 05:12.140
+next lesson.

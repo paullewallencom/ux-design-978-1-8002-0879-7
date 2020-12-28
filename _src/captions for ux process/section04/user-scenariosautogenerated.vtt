@@ -1,0 +1,388 @@
+WEBVTT
+
+00:05.060 --> 00:14.810
+We as human beings we love stories from past when we were used to live in caves and you know we used
+
+00:14.900 --> 00:22.700
+really were Hunter hunter gatherers we used to love stories so users saw a scenario is basically a short
+
+00:22.830 --> 00:31.160
+user story in which we will describe how the user is going to use your product van and in which circumstances
+
+00:31.160 --> 00:36.920
+which conditions which problems they were using your product and what they were facing and things like
+
+00:36.920 --> 00:37.170
+that.
+
+00:37.170 --> 00:44.720
+So it is just a short story built on the context and behavior of your user why is using your product
+
+00:44.750 --> 00:47.910
+or a similar product like yours.
+
+00:47.900 --> 00:55.430
+So we are going to you know get more information about the usage and the context and user behavior from
+
+00:55.430 --> 00:57.810
+these charge user scenarios.
+
+00:57.890 --> 01:01.880
+Now there are few doors and dos of user scenarios.
+
+01:01.880 --> 01:09.780
+So when you are building or writing a user scenario you are not going to tell each step performed by
+
+01:09.780 --> 01:11.770
+a user that she clicked.
+
+01:11.900 --> 01:19.710
+Now add to cart button then she clicked check out then she clicked something as then an error.
+
+01:19.760 --> 01:24.770
+Then an error happened and she tried to remove it and things like that.
+
+01:24.980 --> 01:28.640
+You are not going to tell each and every step taken.
+
+01:28.720 --> 01:28.940
+Okay.
+
+01:28.970 --> 01:33.600
+So it is a short story we are going to write it in a story format.
+
+01:33.680 --> 01:37.160
+We are not going to elaborate each and every step taken by the user.
+
+01:38.420 --> 01:46.160
+Now the things we are looking for in a user scenario is goals of our users motivations triggers.
+
+01:46.200 --> 01:46.780
+Why.
+
+01:46.770 --> 01:50.660
+Actually they are going to put JS this frock.
+
+01:50.780 --> 01:52.510
+What are their expectations.
+
+01:52.520 --> 01:53.540
+What are their actions.
+
+01:53.540 --> 01:59.590
+They are taking what happened what is happening with them but they are frustrated or things like that.
+
+01:59.780 --> 02:02.760
+So we are also going to look at the context.
+
+02:02.780 --> 02:05.850
+For example she was sitting in her home.
+
+02:05.960 --> 02:09.980
+Was she using our e-commerce mobile app.
+
+02:09.980 --> 02:16.970
+Was she trying to use it on Internet Explorer using her P.C. was she on a laptop.
+
+02:16.970 --> 02:17.900
+So things like that.
+
+02:17.900 --> 02:20.090
+So this is actually the context.
+
+02:20.210 --> 02:22.670
+Let's see the pass off user scenario.
+
+02:22.670 --> 02:26.100
+Now here are some building blocks of a user scenario.
+
+02:26.120 --> 02:33.660
+First thing is that we are going to use and attach a persona to a user's Nadia's story short story.
+
+02:33.800 --> 02:40.280
+We are not writing like Gene was using things like that we are actually using the whole persona.
+
+02:40.280 --> 02:44.480
+A group of users and their behavior and we are attaching it to your product.
+
+02:45.140 --> 02:48.440
+Similarly we are going to go for motivation and triggers.
+
+02:48.470 --> 02:48.860
+Why.
+
+02:48.870 --> 02:50.990
+Actually they started this behavior.
+
+02:50.990 --> 02:51.360
+Why.
+
+02:51.360 --> 02:57.720
+Actually they were purchasing what happened why they were looking for shirts.
+
+02:57.730 --> 02:59.950
+Add that to him at night.
+
+02:59.960 --> 03:00.880
+Things like that.
+
+03:01.680 --> 03:08.640
+Then we are also going to see the problems they face during the usage or user scenario how they actually
+
+03:08.640 --> 03:15.210
+used it whether they were they were facing some problems in the meter maid or at the end and they were
+
+03:15.210 --> 03:16.400
+satisfied or nah.
+
+03:16.410 --> 03:17.730
+Things like that.
+
+03:17.730 --> 03:19.550
+Also what is the problem.
+
+03:19.560 --> 03:20.690
+They are trying to solve.
+
+03:20.700 --> 03:26.920
+Is there any particular problem in their mind that I want to solve this I want to do this or this is
+
+03:26.920 --> 03:27.930
+my problem.
+
+03:27.930 --> 03:35.940
+Maybe they are purchasing this frock for some other reason maybe they want to order it for some party
+
+03:35.940 --> 03:41.600
+or things like that so you need to find that problem what is the problem they are trying to solve.
+
+03:42.640 --> 03:49.450
+Here is one example of user scenario using my product which is actually from clan an e-commerce store
+
+03:49.450 --> 03:51.340
+for little goods.
+
+03:51.340 --> 03:56.740
+So here is a user scenario I am going to show you another example of the same user scenario with some
+
+03:56.740 --> 04:03.760
+other ending so there could be a lot of user scenarios which are related to different tasks and different
+
+04:03.760 --> 04:04.740
+personas.
+
+04:04.750 --> 04:08.220
+So right now I am using a persona off a busy mom.
+
+04:08.290 --> 04:09.900
+So here it goes.
+
+04:10.150 --> 04:16.900
+It's late night Zana a busy mom which is a persona needs to go to her office early in the morning so
+
+04:16.900 --> 04:18.710
+you can see this is the need.
+
+04:18.730 --> 04:21.200
+This is actually their behavior.
+
+04:21.210 --> 04:21.590
+Why.
+
+04:21.590 --> 04:26.580
+Actually they want to buy their dress because they they want to get off.
+
+04:27.040 --> 04:34.030
+You can say that the burden of there is just that they want to buy it so they can easily relax and work
+
+04:34.060 --> 04:36.070
+in office without any distraction.
+
+04:36.880 --> 04:43.500
+But before that she needs to order a blue princess dress for her daughter so you can see blue Princess
+
+04:43.510 --> 04:45.790
+means we are highlighting Blue.
+
+04:45.790 --> 04:53.360
+Blue is actually the color so most of the e-commerce stores they don't have filtration based on colors.
+
+04:53.380 --> 04:57.250
+So we are going to highlight that because this is a user need.
+
+04:57.250 --> 05:04.810
+And this is really it can be a really great feature in our frocks and e-commerce store because it was
+
+05:05.150 --> 05:06.730
+our daughter's first day at school.
+
+05:06.730 --> 05:08.640
+She took her cell phone.
+
+05:08.830 --> 05:14.680
+You can see this is the context so how actually they are going to use our product and search for Barbie
+
+05:14.680 --> 05:15.670
+frocks.
+
+05:15.670 --> 05:17.820
+So rather than you can see this is user behavior.
+
+05:17.830 --> 05:22.840
+They are not going to any website or you want to direct me they are Googling it.
+
+05:22.840 --> 05:29.380
+They are searching for Barbie frocks and we are also going to look at and use this term because when
+
+05:29.380 --> 05:36.940
+I was doing research user research when I interviewed two users Barbie frocks was a term used for princess
+
+05:36.940 --> 05:39.290
+dresses rather than you know princesses.
+
+05:39.310 --> 05:42.910
+So they tried to type Barbie frocks.
+
+05:43.030 --> 05:44.920
+She clicked Franklin from Google.
+
+05:44.920 --> 05:49.870
+This is a scenario of reserves and saw Princess just sections.
+
+05:49.870 --> 05:54.000
+She ordered via whatsapp number as it feels easier and quick.
+
+05:54.070 --> 06:02.800
+So most of the people in my country they don't you know get very you can say familiar with other payment
+
+06:02.800 --> 06:08.950
+options they if they feel that it's easier for them to use whatsapp number as it is direct and if they
+
+06:08.950 --> 06:13.420
+want to ask some questions they can ask it to a real person.
+
+06:13.420 --> 06:14.670
+So this is the need.
+
+06:15.540 --> 06:21.180
+She hopes to get the item delivered by tomorrow so she is right now and she is at the end she is waiting
+
+06:21.180 --> 06:22.030
+for her products.
+
+06:22.030 --> 06:24.190
+She bought it to get delivered soon.
+
+06:24.210 --> 06:26.630
+So this is another thing we need to look for.
+
+06:26.670 --> 06:28.960
+Now here we have the same scenario.
+
+06:28.980 --> 06:35.290
+Everything is almost the same but you can see at the end this is another behavior they are showing.
+
+06:35.400 --> 06:42.330
+She she found princess just section and she didn't find the material of the dress.
+
+06:42.480 --> 06:46.640
+So they were looking at this is actually about their selection.
+
+06:46.650 --> 06:51.910
+So when they are they have found the product and they are selecting the product.
+
+06:51.930 --> 06:57.230
+So this scenario uses scenario is to more about the selection of the product.
+
+06:57.230 --> 07:03.660
+So there are different user scenarios for different things like logging might be something else for
+
+07:04.170 --> 07:05.020
+Jack.
+
+07:05.250 --> 07:08.760
+Check out might be some something some other user scenario.
+
+07:08.760 --> 07:15.450
+There have been different problems using that feature Jack out then for sign ups.
+
+07:15.450 --> 07:19.980
+There might be some other user scenarios or so for each user.
+
+07:19.980 --> 07:26.100
+We are going to have different scenarios so how we actually gathered or make made these scenarios we
+
+07:26.100 --> 07:31.860
+actually let our users do this task in the user interviews.
+
+07:31.860 --> 07:41.010
+So when you are preparing a user interview actually I showed an open up view you can see a few screens
+
+07:41.010 --> 07:48.420
+and let my user do the task so I gave them the tools that you need to order this address for your sister.
+
+07:48.480 --> 07:49.410
+How would you do that.
+
+07:49.440 --> 07:49.680
+OK.
+
+07:49.710 --> 07:56.870
+So go ahead and use my B.S. and do it or how would you do it at your house use your mobile phone.
+
+07:56.890 --> 08:03.130
+So this is how actually they did it and they actually tried to do things like that so you can see they
+
+08:03.130 --> 08:09.520
+didn't find the material of the address at the end and she wants to make sure that it's gotten and e-mailing
+
+08:09.520 --> 08:16.200
+the support at this time of the night was you know was not going to help out because it was with him.
+
+08:16.450 --> 08:17.920
+So her problem is not solved.
+
+08:17.920 --> 08:20.980
+So in the end she her problem is not solved.
+
+08:20.980 --> 08:24.280
+See she is frustrated and things like that.
+
+08:24.310 --> 08:31.690
+So this is actually we are going to build in a user scenario persona then their motivation why actually
+
+08:31.690 --> 08:37.180
+what is a trigger why they are actually behaving like this then how actually they use the product they
+
+08:37.180 --> 08:44.370
+order they use google and things like that they clicked over here the search for these terms then what
+
+08:44.370 --> 08:47.700
+was the problem they were facing she didn't find the material of the dress.
+
+08:47.700 --> 08:54.900
+This is a problem the first and then in the end what was their feelings at the end what what they frustrated
+
+08:54.930 --> 08:56.010
+or things like that.
+
+08:56.040 --> 09:02.960
+So this is of users now you I hope you have understood it and I hope you have will have no problem is
+
+09:02.970 --> 09:11.190
+using it or making it and there are things you can get from here you can see there are a lot of requirements
+
+09:11.220 --> 09:18.990
+and you you can see features of your product which you can extract from user scenario like we have dress
+
+09:19.320 --> 09:26.820
+color filters and then we have material filters this is actually what our idea of uniqueness is based
+
+09:26.820 --> 09:30.100
+on on about this frock Land project.
+
+09:30.360 --> 09:33.190
+So that is all if you have any questions to ask me.
+
+09:33.390 --> 09:35.100
+Let's move on to the next lesson.

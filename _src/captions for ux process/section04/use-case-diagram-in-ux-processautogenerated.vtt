@@ -1,0 +1,247 @@
+WEBVTT
+
+00:04.560 --> 00:09.490
+Now in the previous few lessons we were talking about user scenarios user stories.
+
+00:09.530 --> 00:10.820
+What are the user needs.
+
+00:10.820 --> 00:15.170
+What the what is the context they have used and they are while.
+
+00:15.220 --> 00:20.930
+Were using our product or our e-commerce store or anything and mobile app.
+
+00:21.140 --> 00:27.440
+Now is the time we are going into the interaction how the interaction between the user and the system
+
+00:27.650 --> 00:29.010
+is going to happen.
+
+00:29.030 --> 00:32.860
+What will be the actions what will be the events that are going to trigger them.
+
+00:32.870 --> 00:34.400
+What will be the system behavior.
+
+00:34.430 --> 00:40.410
+So this is actually basically a software requirement gathering tool use guest diagram.
+
+00:40.410 --> 00:48.230
+And when I was in college I used to love creating them and at that time it was related to databases
+
+00:48.230 --> 00:49.090
+and things like that.
+
+00:49.100 --> 00:56.300
+But right now we use them in a simpler way in user expense design now in any Use Case Diagram.
+
+00:56.300 --> 00:59.920
+There are two things in case of my fraud plan.
+
+00:59.920 --> 01:06.650
+You can see we have actors that are going to you know be action performers because it is about action
+
+01:06.680 --> 01:10.840
+and reaction of the system or action of the user and reaction of the system.
+
+01:10.850 --> 01:13.640
+So action is going to be a to actor.
+
+01:13.640 --> 01:16.910
+So actors could be our customer or our shopper.
+
+01:16.940 --> 01:23.340
+Then our delivery department website administration help line girl or helpline guy whoever they have
+
+01:23.350 --> 01:26.270
+they are stock but she is a manager.
+
+01:26.360 --> 01:32.700
+It could be third party managers stock management party or things like that.
+
+01:32.780 --> 01:35.140
+Then we have the events or actions.
+
+01:35.180 --> 01:40.690
+So this is actually the whole Use Case Diagram relation.
+
+01:40.730 --> 01:47.300
+So if we are showing a Use Case Diagram of logging then it will only cover the logging interaction between
+
+01:47.300 --> 01:49.280
+the actor and the system.
+
+01:49.310 --> 01:56.150
+If we are looking at checkout process for a new user then it will be just the checkout process.
+
+01:56.180 --> 02:02.400
+The whole process and how the act of what are different things.
+
+02:02.420 --> 02:03.650
+A user can do.
+
+02:03.650 --> 02:05.780
+What are the different functions.
+
+02:05.780 --> 02:11.690
+A user can perform on your system and what will be the system doing after they click or perform that
+
+02:12.020 --> 02:13.170
+action.
+
+02:13.430 --> 02:15.650
+Then it could be also calling the help line.
+
+02:15.770 --> 02:21.020
+So I'm going to show you and share with you my example of Use Case Diagram.
+
+02:21.020 --> 02:25.280
+I build for one process or action or event.
+
+02:25.280 --> 02:33.720
+So let's see that now you can see this is a simple Use Case Diagram for Busy Moms ordering using WhatsApp
+
+02:34.020 --> 02:39.000
+so you can see we want to be very specific what is actually the action or the process which is happening
+
+02:39.000 --> 02:44.430
+and the whole Use Case Diagram is about.
+
+02:44.430 --> 02:46.380
+So this is very very important.
+
+02:46.500 --> 02:50.020
+So you can see on the left side we have users on the right side.
+
+02:50.040 --> 02:51.630
+We have another actor on the left.
+
+02:51.630 --> 02:52.570
+We have busy mom.
+
+02:52.590 --> 02:53.720
+This is an actor.
+
+02:53.790 --> 02:55.720
+Let's zoom in a little bit.
+
+02:56.760 --> 02:57.140
+Okay.
+
+02:57.160 --> 03:04.330
+So we have busy mom actor on the left then and the process all the functions they can perform within
+
+03:04.330 --> 03:09.970
+the system you can see this dotted line all around is a system boundary you can see here I have written
+
+03:09.970 --> 03:14.230
+system boundary and this is actually what she can do.
+
+03:14.260 --> 03:19.990
+She is going to view deals or browse products then she will add to the cards so they are in a sequence
+
+03:19.990 --> 03:27.300
+from top to bottom you can see then we have checkout with WhatsApp calls or send messages via WhatsApp.
+
+03:27.310 --> 03:32.860
+So she is actually messaging and this message will be received by this help line guy.
+
+03:32.860 --> 03:39.210
+You can see how he's also act and you can see interacting with the same process.
+
+03:39.340 --> 03:46.270
+So she after she messages he is going to ask for dress product ideas what are the product ideas related
+
+03:46.270 --> 03:50.580
+to your the dresses in your card okay so next.
+
+03:50.580 --> 03:58.020
+This guy is actually going to create an order audio or update stalk with whatever she has chosen because
+
+03:58.020 --> 04:02.320
+she is not using this system to order.
+
+04:02.340 --> 04:05.640
+She has just a field card and she is not checking out.
+
+04:05.700 --> 04:08.060
+So all the stocks will be the same.
+
+04:08.100 --> 04:08.910
+They will not affect.
+
+04:08.910 --> 04:15.930
+So he has to create some dummy account or things like that to create a record of that in that order
+
+04:16.290 --> 04:22.360
+and generate an order i.e. OK so you can see here is his processes.
+
+04:22.360 --> 04:24.790
+Now this is only related to this actor.
+
+04:24.790 --> 04:27.980
+So it has nothing to do with our busy mom.
+
+04:28.000 --> 04:33.520
+So then you can see at the end Senate order no amount estimated delivery time.
+
+04:33.520 --> 04:36.310
+These three things he is going to send the order confirmation.
+
+04:36.350 --> 04:42.570
+S M S on mobile after he will generate that order as Smith will be automatically generated.
+
+04:42.580 --> 04:46.630
+And here you can see she receives as a mess on the mobile.
+
+04:46.660 --> 04:49.030
+This is going back to busy mom.
+
+04:49.030 --> 04:50.500
+So this is our system boundary.
+
+04:50.500 --> 04:53.280
+This is very simple Use Case Diagram.
+
+04:53.410 --> 04:59.050
+It actually shows what is the interaction of the system and how the user is actually going to interact
+
+04:59.050 --> 05:05.320
+with the system what functions they can use how and which sequence they are going to use it.
+
+05:05.320 --> 05:10.540
+What will be the inputs and outputs like you can see what will be the asked and what she will be sending
+
+05:10.540 --> 05:11.340
+into the system.
+
+05:11.350 --> 05:22.170
+What he will be asking for the system or the user to send these things Okay so these are this is very
+
+05:22.170 --> 05:25.020
+simple very simple use guest diagram.
+
+05:25.050 --> 05:31.980
+You can find a lot of different examples online but this is actually what we will be using simply in
+
+05:31.980 --> 05:34.310
+our user expense diagram.
+
+05:34.420 --> 05:42.300
+The you use case diagram which we use in software development with databases and things like that.
+
+05:42.300 --> 05:46.900
+That is a bit different but this one is what you can use.
+
+05:46.900 --> 05:50.840
+Okay so I'm giving you all these into a PDA format.
+
+05:50.840 --> 05:56.050
+Don't forget to download it and see and try to build upon it.
+
+05:56.070 --> 05:57.630
+I hope you have enjoyed this lesson.
+
+05:57.630 --> 05:59.210
+Let's move on to the next lesson.

@@ -1,0 +1,256 @@
+WEBVTT
+
+00:04.290 --> 00:10.350
+Now in this lesson we are going to talk about personas you might have heard this name before.
+
+00:10.350 --> 00:16.830
+If you are a UI designer or you design it now a lot of people think that it is a real user but instead
+
+00:16.890 --> 00:20.470
+it is actually a fictitious user.
+
+00:20.760 --> 00:24.450
+And we don't use the real image of the user.
+
+00:24.450 --> 00:30.330
+For example I went to an interview and I took a photo of my user and then I pasted in my personas.
+
+00:30.330 --> 00:30.990
+This is wrong.
+
+00:30.990 --> 00:38.680
+We are going to use just a fake image and the name must also be fake by about all the other information
+
+00:39.130 --> 00:43.720
+will be will not be fake it will be real now it actually does.
+
+00:43.720 --> 00:47.220
+What are the behaviors what are the goals.
+
+00:47.350 --> 00:51.280
+What what are the triggers behind those goals of future users.
+
+00:51.280 --> 00:57.490
+Because these this is very necessary you need to know and understand your users better what are their
+
+00:57.490 --> 01:06.260
+behaviors how they act with different technologies and all this stuff now normally we get all the information
+
+01:06.260 --> 01:13.250
+from our personas and the user interviews so we you know we all we extract all the information from
+
+01:13.250 --> 01:18.390
+there from the user interviews and put and create a persona based on that.
+
+01:18.410 --> 01:23.180
+Now I recommend that you should use at least three personas.
+
+01:23.480 --> 01:25.170
+One two three personas.
+
+01:25.250 --> 01:31.160
+Normally it is very rare that you just hit only one type of person.
+
+01:31.490 --> 01:39.170
+So actually there is another topic that is coming to my mind which is a user archetype or user RG type
+
+01:39.180 --> 01:40.330
+whatever you call it.
+
+01:40.370 --> 01:44.070
+So actually persona is actually one type of user.
+
+01:44.120 --> 01:52.090
+For example I have for example I have a website that gives me different.
+
+01:52.130 --> 01:53.980
+You can say different deals.
+
+01:54.170 --> 01:54.550
+OK.
+
+01:54.860 --> 01:56.090
+So it is a deal.
+
+01:56.090 --> 02:00.260
+The upside that give me all the discounted deals online.
+
+02:00.290 --> 02:03.890
+So there might be two different types of users for that.
+
+02:03.920 --> 02:05.870
+So there will be two different personas.
+
+02:05.870 --> 02:08.630
+One is a normal home user.
+
+02:08.630 --> 02:16.790
+For example I want few t shirts for me and I saw a bulk t shirt deal over there that five t shirts for
+
+02:16.790 --> 02:18.530
+20 dollars and I'm going to buy it.
+
+02:18.560 --> 02:18.910
+OK.
+
+02:19.190 --> 02:21.700
+So there is one type of person like this.
+
+02:21.830 --> 02:30.620
+There could be another persona and another type of user that is going to buy in bulk and he's going
+
+02:30.620 --> 02:32.080
+to sell on his shop.
+
+02:32.090 --> 02:33.940
+So he has a shop.
+
+02:34.010 --> 02:41.690
+He has a clothing shop our store and he is going to buy all different stuff in bulk that he can get
+
+02:41.690 --> 02:44.230
+from that dealers website.
+
+02:44.360 --> 02:50.810
+And in another season or maybe next season he is going to store it and he is going to you know sell
+
+02:50.810 --> 02:52.930
+it on some other rates.
+
+02:53.180 --> 02:53.980
+So there could.
+
+02:54.080 --> 02:56.870
+So we can make one persona for the home user.
+
+02:56.960 --> 02:59.600
+And we are going to name it home use it.
+
+02:59.600 --> 03:01.050
+And the second one will be sell.
+
+03:01.070 --> 03:01.810
+So.
+
+03:01.820 --> 03:05.440
+So these are different types of personas you are looking for.
+
+03:05.510 --> 03:12.320
+Now the second question is why do we need personas why creating these personas why should we have these.
+
+03:12.380 --> 03:19.900
+So the first thing is that we want our design team our development team to have some empathy VW users.
+
+03:20.000 --> 03:25.130
+They need to know what are the pains of our users what are the goals and the personality of the user
+
+03:25.130 --> 03:27.820
+who is going to use their product.
+
+03:27.830 --> 03:33.950
+So these personas they are printed and they are hanged in front of design teams and development teams
+
+03:33.950 --> 03:39.350
+so they can better align their user goals with their product.
+
+03:39.350 --> 03:46.420
+So this is going to you know give them a shared bot that our user is going to need these.
+
+03:46.430 --> 03:48.800
+So we are building this for this type of user.
+
+03:49.460 --> 03:51.320
+So this is very important.
+
+03:51.380 --> 03:53.610
+You might have heard about a persona.
+
+03:53.630 --> 03:56.690
+But you might not have heard about work rules.
+
+03:56.900 --> 04:02.360
+You are developing a product or an e-commerce store for the users primarily your buyers and you are
+
+04:02.360 --> 04:03.940
+making personas for them.
+
+04:04.010 --> 04:11.870
+But don't forget about the work rules work rules are actually different interesting parties that are
+
+04:11.870 --> 04:13.780
+linked to your product.
+
+04:13.940 --> 04:22.250
+For example in this example we are creating Franklin store so our buyers reject the other users we have
+
+04:22.250 --> 04:27.440
+created them to be personas are Goober sonars busy moms or things like that we are going to come to
+
+04:27.440 --> 04:36.140
+that point and we might also have administrator who is looking after all my products with adding products
+
+04:36.140 --> 04:40.220
+on my website who is removing products from my website.
+
+04:40.250 --> 04:40.540
+OK.
+
+04:40.610 --> 04:44.120
+So this is the site administrator then we have Cody and company.
+
+04:44.300 --> 04:49.760
+So the courier company delivery company that is attached to our Web site they are going to update our
+
+04:49.760 --> 04:56.070
+website our users that the product or delivery has been processed or things like that.
+
+04:56.360 --> 05:00.840
+Then we have the CEO now the CEO of the company which is me.
+
+05:00.950 --> 05:03.550
+I want different sales reports.
+
+05:03.590 --> 05:04.810
+I am not an administrator.
+
+05:04.820 --> 05:06.290
+I am administrator is different.
+
+05:06.290 --> 05:08.240
+So I want sales reports.
+
+05:08.240 --> 05:15.500
+So our website or our map store it might had some feature built in that it can show me monthly sales
+
+05:15.500 --> 05:22.430
+and yearly says our weekly says things like that then we have our stock manager stock manager is a separate
+
+05:22.430 --> 05:24.380
+person who is managing all the stock.
+
+05:24.390 --> 05:29.840
+So these kind of banks we have very low stock and he need to order more.
+
+05:29.840 --> 05:34.920
+So stock manager is actually totally different Volker rule.
+
+05:34.940 --> 05:40.880
+So you need to understand Don't try to forget about the Volcker Rule store just only focus on the users
+
+05:41.240 --> 05:48.710
+but all the different types of Volcker rules that are going to be interested in your in using your system
+
+05:48.710 --> 05:49.620
+or product.
+
+05:49.730 --> 05:51.900
+So enough talk about personas.
+
+05:51.900 --> 05:57.530
+I'm going to show you my persona which I created and I'm going to also show you a website where you
+
+05:57.530 --> 06:02.690
+can create online tool a persona they have very great templates.
+
+06:02.690 --> 06:04.610
+So let's move on to the next lesson.

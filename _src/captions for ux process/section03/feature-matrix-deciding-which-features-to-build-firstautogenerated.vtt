@@ -1,0 +1,292 @@
+WEBVTT
+
+00:04.810 --> 00:13.260
+Whenever we are doing our user express design process there are tons of features that your user might
+
+00:13.260 --> 00:14.010
+want.
+
+00:14.100 --> 00:21.930
+So they might want to you know pack their laundry or maybe vehicle them up with a smile or things like
+
+00:21.930 --> 00:22.230
+that.
+
+00:22.260 --> 00:27.450
+They can ask for anything they can even ask for magic.
+
+00:27.450 --> 00:34.990
+So what you are going to do is we cannot develop or design all those features.
+
+00:35.070 --> 00:36.750
+Everything is not possible.
+
+00:36.750 --> 00:40.490
+It might be due to some limitations of cost.
+
+00:40.560 --> 00:42.860
+It might be limitation of time.
+
+00:43.080 --> 00:47.040
+It might be limitation of development process.
+
+00:47.040 --> 00:49.360
+Maybe it's difficult to develop.
+
+00:49.500 --> 00:57.480
+So we are actually going to trade off and select the features using the feature metrics and we are going
+
+00:57.480 --> 01:00.060
+to see what feature is valuable.
+
+01:00.300 --> 01:07.620
+And also we can easily build it so it is cost effective valuable and less time consuming.
+
+01:08.400 --> 01:17.360
+Similarly when we are improving or redesigning or improving our design maybe we release our first version
+
+01:17.400 --> 01:20.130
+and we got some feedback from the users.
+
+01:20.130 --> 01:25.050
+Now we are going to release our second version and we want to improve it.
+
+01:25.080 --> 01:31.560
+We are again going to build feature metrics that these features can be or these problems can be adjusted
+
+01:31.590 --> 01:32.450
+easily.
+
+01:32.460 --> 01:36.340
+They have more value so we are going to do them first.
+
+01:36.360 --> 01:42.090
+So this is actually to prioritize which features you want to develop first and which we are going to
+
+01:42.090 --> 01:43.190
+develop later.
+
+01:43.200 --> 01:46.180
+So let me show you one example.
+
+01:46.350 --> 01:54.010
+Now you can see this is how you develop feature metrics and you can see on the left side we have value
+
+01:54.010 --> 01:54.610
+to user.
+
+01:54.660 --> 02:00.070
+How much value our product has or this feature has for the user.
+
+02:00.090 --> 02:06.480
+So from low to high then we have on the bottom we have from the left or right we have difficulty or
+
+02:06.480 --> 02:07.950
+cost of implementation.
+
+02:07.950 --> 02:16.950
+It might be cost in monetary terms like dollars or it might be time so you can see our resources from
+
+02:16.950 --> 02:17.730
+the left right.
+
+02:17.730 --> 02:19.120
+We have low and too high.
+
+02:19.590 --> 02:27.030
+So you can see the features that are going to fall in this quadrant which are expensive and high value
+
+02:27.480 --> 02:30.160
+like automatic Stock Alerts to suppliers.
+
+02:30.480 --> 02:32.510
+So it is not very necessary.
+
+02:32.520 --> 02:35.040
+We are not going to build them right now.
+
+02:35.070 --> 02:41.460
+Similarly package tracking in my country there is no package tracking online or you can see you can
+
+02:42.000 --> 02:45.180
+visually see your package going through different drugs.
+
+02:45.180 --> 02:51.570
+This is not possible so we are going to leave those then on the left you can see easy wins.
+
+02:51.570 --> 02:55.860
+They have high value and they have very low cost.
+
+02:55.860 --> 03:01.050
+So on the left you can see Facebook log in is easier to develop than we have taking all in order by
+
+03:01.050 --> 03:01.380
+phone.
+
+03:01.380 --> 03:02.580
+It is not very difficult.
+
+03:02.580 --> 03:08.680
+We just need a phone number and it is also going to improve the trust and credibility of our website.
+
+03:08.700 --> 03:12.090
+E-commerce website filtering based on color size and fabric.
+
+03:12.090 --> 03:13.780
+This can be done easily.
+
+03:13.800 --> 03:16.980
+We just need to have a few filters applied.
+
+03:17.160 --> 03:23.790
+So when you are making this decision or this matrix we are going to have our developers.
+
+03:23.910 --> 03:26.850
+We are going to have our Martin marketing managers.
+
+03:26.850 --> 03:30.980
+We are going to have our CEO and we are going to have our design team.
+
+03:31.020 --> 03:37.220
+All of them should be present and they are going to give some points that these are easier to develop
+
+03:37.230 --> 03:43.080
+are these are easy wins or things like that because user expands design team they know what are the
+
+03:43.080 --> 03:49.620
+pain points development team they know what are development costs marketing teams they know what actually
+
+03:50.250 --> 03:58.350
+user wants to see too or our feature that we can market easily for example sorting by fabric type so
+
+03:58.350 --> 03:59.070
+things like that.
+
+03:59.100 --> 04:02.220
+So on the left side you can see we have low cost low value.
+
+04:03.150 --> 04:10.260
+So log in option with just a phone number that can be implemented to it has medium to low value and
+
+04:10.260 --> 04:11.520
+it has very low cost.
+
+04:11.910 --> 04:18.270
+So anything that is going to fall in this section in this area we are going to implement it or try to
+
+04:18.270 --> 04:28.680
+create it in our first vision or MVP minimum minimal viable product and everything that is expensive
+
+04:28.710 --> 04:29.470
+and low value.
+
+04:29.490 --> 04:33.180
+We are going to neglect it almost totally.
+
+04:33.180 --> 04:34.350
+So things like that.
+
+04:34.350 --> 04:41.430
+So this is actually very important in decision making because we don't want to our product to be a feature
+
+04:41.430 --> 04:45.200
+creep I have I had a client.
+
+04:45.230 --> 04:47.720
+I'm going to tell you a little story.
+
+04:47.770 --> 04:56.440
+I had a client and he had a brilliant idea and a product which was in web app and what it does it was
+
+04:56.440 --> 04:57.420
+a community app.
+
+04:57.760 --> 05:07.810
+So if you are in town for example my town or my area is called DC Colonia or D.C. road or things like
+
+05:07.810 --> 05:07.980
+that.
+
+05:07.980 --> 05:16.030
+So if I am living in at the loony like D.C. colony and on that app you can join that community and everyone
+
+05:16.030 --> 05:23.050
+is going to inform you about what actually is happening around them maybe they hired some thief last
+
+05:23.050 --> 05:28.900
+night they heard some gunshot last night so they are going to inform you about the safety and other
+
+05:28.900 --> 05:31.200
+things and what is happening in the community.
+
+05:31.210 --> 05:36.430
+Maybe some advertized mind that I am selling I am opening a new shop for this thing and things like
+
+05:36.430 --> 05:45.730
+that so it was a brilliant idea but the problem was that he actually suffocated the app with like tons
+
+05:45.730 --> 05:46.690
+of features.
+
+05:46.690 --> 05:53.900
+There were 20 different features that were not needed by the his users.
+
+05:54.000 --> 05:58.000
+So he was my client from USA and the idea was great.
+
+05:58.030 --> 06:04.830
+I left that project because it was getting getting bigger and bigger with a lot of features.
+
+06:04.840 --> 06:07.510
+I was a designer as you would expect designer for that.
+
+06:07.630 --> 06:14.950
+That was a social app category and I had very bad experience of because of this feature creep.
+
+06:14.950 --> 06:16.450
+So this is very important.
+
+06:16.450 --> 06:24.640
+I think it is going to make or break your app because you cannot deliver everything at a time so you
+
+06:24.640 --> 06:30.970
+have to select few priorities you have to prioritize which features are more essential or they are the
+
+06:30.970 --> 06:32.790
+bread and butter of my app.
+
+06:32.890 --> 06:37.430
+Users are going to attract to my app with this feature.
+
+06:37.840 --> 06:44.860
+So try to develop those which have high value and you can easily make them in within six months or three
+
+06:44.860 --> 06:47.940
+months technology is very fast paced.
+
+06:47.980 --> 06:56.020
+If you are going to make or improve feature and you are going to introduce it within next five years
+
+06:56.470 --> 07:00.640
+then you are going to lose the business because it is changing a lot.
+
+07:00.640 --> 07:07.450
+There might be tens of apps that are going to deliver that feature and maybe before you.
+
+07:07.510 --> 07:09.640
+So it's a race.
+
+07:09.640 --> 07:13.780
+So try to focus on what is high value and you can easily develop it.
+
+07:13.810 --> 07:14.440
+Easy wins.
+
+07:15.400 --> 07:20.710
+So that is all about this feature matrix and the story I have told you I hope you have learned some
+
+07:20.710 --> 07:21.910
+lessons.
+
+07:21.940 --> 07:23.380
+Let's move on to the next lesson.

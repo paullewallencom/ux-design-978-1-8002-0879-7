@@ -1,0 +1,454 @@
+WEBVTT
+
+00:04.630 --> 00:11.350
+No we have already created via frames and via frames are going to tell a lot about what the information
+
+00:11.350 --> 00:16.880
+is there present in your pages Web sites or mobile app screens.
+
+00:17.080 --> 00:23.440
+But the interactivity how actually those static pages are going to work or interact when what happens
+
+00:23.440 --> 00:25.720
+when a user clicks on Add To Cart.
+
+00:25.720 --> 00:31.990
+What happens when a user clicks on short details how the whole product is going to work.
+
+00:31.990 --> 00:38.740
+So working model which shows mostly that interaction feedback of your system and what are the transitions
+
+00:38.980 --> 00:46.210
+between screens and what will happen when some user gets error messages or things like that they are
+
+00:46.210 --> 00:48.400
+going to be present in your prototype.
+
+00:48.410 --> 00:54.220
+Now these prototypes are bread and butter of George use expense design process and they are the biggest
+
+00:54.220 --> 00:55.090
+cost savers.
+
+00:55.090 --> 00:55.570
+Why.
+
+00:55.570 --> 01:03.100
+Because you can have and develop a prototype or paper prototype with no cost and no time you can create
+
+01:03.100 --> 01:07.090
+them in just 30 minutes and you can test your idea and you can throw it away.
+
+01:07.090 --> 01:10.080
+These are called through are very prototypes.
+
+01:10.300 --> 01:15.840
+You are not going to you know get yourself emotionally involved with the prototypes.
+
+01:15.850 --> 01:18.590
+They are just for testing purpose.
+
+01:18.670 --> 01:23.770
+They are for making your product better and better you are going to iterate your design and again and
+
+01:23.770 --> 01:27.120
+again based on the feedback you get from the users.
+
+01:27.130 --> 01:33.460
+When you test your prototypes so try to create prototypes as early as possible in your user expense
+
+01:33.460 --> 01:39.940
+design process even you can use them in user interviews and let's see some of the different types of
+
+01:39.940 --> 01:47.670
+prototypes which I have already covered in my Adobe x d course design prototype and collaborate.
+
+01:48.040 --> 01:55.020
+But I am going to cover it over here again because it is more related to this course than Adobe equity.
+
+01:55.100 --> 01:58.100
+There are three major types of prototypes.
+
+01:58.240 --> 02:04.000
+One are paper prototypes which are most easier to produce you can use just the papers use some markers
+
+02:04.000 --> 02:05.860
+and things and create paper prototypes.
+
+02:05.860 --> 02:12.310
+Then we have digital prototypes or interactive prototypes which users can easily tap on and click on
+
+02:12.340 --> 02:16.240
+and you can move from screen to screen with some transition some effects.
+
+02:16.240 --> 02:20.940
+There are many tools brought up by principal Flynn to be equity.
+
+02:20.950 --> 02:24.210
+These are all the tools you can use to create digital prototypes.
+
+02:24.250 --> 02:33.220
+Then we have developed prototypes like you can see we mostly use them in a jail you X where we just
+
+02:33.750 --> 02:37.230
+release or lead the better vision or alpha version of our product.
+
+02:37.240 --> 02:42.220
+And just to test it the how will be the response of the users what will happen.
+
+02:42.250 --> 02:49.030
+So if you remember that Invision studio they started with and we a studio is a unique design app.
+
+02:49.030 --> 02:54.490
+If you don't know and they started with an invite of testing that beta product and once you get the
+
+02:54.490 --> 02:59.740
+invite they send you a link to test it and you give them feedback that half of what you think about
+
+02:59.740 --> 03:01.040
+their product.
+
+03:01.060 --> 03:04.150
+So this is a good way but it is a bit costly.
+
+03:04.150 --> 03:10.040
+So if you are trying to develop a prototype using some chords it will have some cost.
+
+03:10.270 --> 03:18.370
+Now horizontal prototype as the name suggests that it has horizontal features means that it has all
+
+03:18.370 --> 03:23.200
+the features but you are not testing each feature in depth.
+
+03:23.290 --> 03:30.810
+For example the main screens on main pages of any website they are mostly going to fall into this category
+
+03:30.820 --> 03:34.990
+horizontal prototypes because they are a lot of options to choose from.
+
+03:35.080 --> 03:37.680
+User can click on these if you have seen.
+
+03:37.750 --> 03:44.340
+Remember the VAR frames of my website user can click on anything but they are not going to go to checkout
+
+03:44.380 --> 03:47.080
+page each time via each bot.
+
+03:47.170 --> 03:53.570
+So you are actually testing a lot of different things but you are not going into depth.
+
+03:53.680 --> 04:01.810
+So this is actually like you are not going to show all the process or all the prototype behind ordering
+
+04:01.810 --> 04:02.710
+a frog.
+
+04:02.710 --> 04:09.960
+You might have just need to test for example if I have placed some other collection on the first page.
+
+04:10.150 --> 04:13.840
+Whether the users are going to first click that or not.
+
+04:13.840 --> 04:20.050
+So this is actually horizontal prototype is actually going to check your you can see empty doors.
+
+04:20.110 --> 04:24.880
+So you just place few empty doors in your app or in your browser.
+
+04:24.880 --> 04:33.760
+Like if you have recently used YouTube there was an empty button which does nothing and when you click
+
+04:33.760 --> 04:41.950
+on it it shows you that this feature is coming soon and you will say what what the heck what is happening.
+
+04:41.950 --> 04:44.600
+And they placed it just to test the user.
+
+04:44.600 --> 04:48.600
+That user is actually interested in this feature or not.
+
+04:48.640 --> 04:50.560
+So this is actually horizontal prototype.
+
+04:50.560 --> 04:57.580
+You placed a lot of features just to see which one attracts more to the user and you are not going to
+
+04:57.820 --> 05:03.200
+check the check functionality in depth of each feature.
+
+05:03.260 --> 05:04.730
+Then we have vertical prototypes.
+
+05:04.730 --> 05:09.700
+They are going to go deep into any feature you are testing for example.
+
+05:09.740 --> 05:14.060
+I go from main page and then I'm going to go to the whole checkout process.
+
+05:14.180 --> 05:20.510
+So if we have a perfect eye that shows the whole checkout process this is a vertical prototype for checkout.
+
+05:20.510 --> 05:23.060
+So these are not different things.
+
+05:23.060 --> 05:30.380
+You can see if I try to create ordering process ordering vert vertical prototype then I'm going to show
+
+05:30.650 --> 05:38.030
+how the user is going to go from browsing dress to ordering a dress and adding it to cart and things
+
+05:38.030 --> 05:38.850
+like that.
+
+05:38.990 --> 05:45.320
+And for example if we have like log in or sign up vertical prototype then we are going to go into details
+
+05:45.740 --> 05:54.260
+of what if a user get some error message or user is already logged on as user already have an account
+
+05:54.260 --> 05:58.240
+or one of what if he or she forgets the account.
+
+05:58.580 --> 06:07.370
+So the vertical prototype will have all the details of a single feature or function then DB prototype
+
+06:07.370 --> 06:11.600
+is actually combining both horizontal and vertical prototypes.
+
+06:11.630 --> 06:19.250
+So it has it is going to cover a broad functions but it is going to test just one or two of them into
+
+06:19.250 --> 06:26.030
+depth so I'm going to show you at the end of this lesson my prototype which I have used to just test
+
+06:26.180 --> 06:33.290
+my searching function and I used Adobe to create that prototype and you will really leverage so you
+
+06:33.290 --> 06:39.560
+can just test two or three things out of your whole app which are most important for your user and you
+
+06:39.560 --> 06:43.890
+think that are going to make or break your app or website.
+
+06:44.010 --> 06:44.260
+Okay.
+
+06:44.270 --> 06:50.060
+Now in the last we have local prototypes local prototypes means that they are going to reside on a single
+
+06:50.060 --> 06:57.380
+screen single web page and they are more focused on detail on a single aspect of that page.
+
+06:57.440 --> 07:03.260
+For example you might have seen a b testing where we test that the button and the label of the button
+
+07:03.260 --> 07:09.190
+should be add to cart or add to shopping bag or by now and we will see the results.
+
+07:09.500 --> 07:17.060
+And by testing on different sections or you can see different portions of users and see which is going
+
+07:17.060 --> 07:17.480
+to win.
+
+07:17.480 --> 07:24.500
+So a b testing if you have heard that we actually created two versions of the same page or two versions
+
+07:24.500 --> 07:32.750
+of the same screen and show half of the users one version and half of the users one version and see
+
+07:32.750 --> 07:37.270
+which one is going to win and which one is going to get us more sales.
+
+07:37.580 --> 07:43.010
+So it is about how we are going to have more converted users more and more money.
+
+07:43.010 --> 07:50.530
+So it is a bit a little bit of different kind of testing so I hope you have enjoyed this lesson.
+
+07:50.530 --> 07:52.440
+Now let's see Dad.
+
+07:52.700 --> 07:55.200
+Prototype I created using Adobe equity.
+
+07:55.260 --> 08:00.320
+If you are interested in joining Adobe equity you can take my course of Adobe XP.
+
+08:00.450 --> 08:03.920
+You can see I really love to advertise about my courses.
+
+08:03.940 --> 08:08.520
+Anyhow let's move through it all back and see what I have created.
+
+08:08.520 --> 08:12.000
+Now we are in Adobe city and you can see here is my prototype.
+
+08:12.000 --> 08:15.730
+Here we have like 10 different screens.
+
+08:15.750 --> 08:17.170
+Five six seven eight nine ten.
+
+08:17.210 --> 08:19.350
+Okay so they are actually 10 anyhow.
+
+08:19.350 --> 08:27.000
+So these are different screens and prototype is going to this prototype resembles almost a final product
+
+08:27.010 --> 08:33.120
+so I'm going to show you now I'm going to play this and let's see how it looks like and how it plays
+
+08:33.120 --> 08:33.920
+out.
+
+08:34.350 --> 08:37.460
+Anyhow so we have this main page we have search.
+
+08:37.470 --> 08:40.330
+We have this menu bar which is not working.
+
+08:40.410 --> 08:41.660
+So it does de prototype.
+
+08:41.670 --> 08:45.300
+We have just few functionalities working overhead not everything else.
+
+08:45.330 --> 08:45.680
+OK.
+
+08:47.000 --> 08:48.140
+So we can.
+
+08:48.140 --> 08:52.570
+A user can go to these by no press over here okay.
+
+08:52.580 --> 08:57.640
+So we have this page we can select the size.
+
+08:57.960 --> 09:00.670
+We can click on by now.
+
+09:00.930 --> 09:02.850
+A message appears and disappears.
+
+09:02.850 --> 09:07.500
+Keep shopping or you want to go to check out so we are going to go to check out because it is more about
+
+09:07.500 --> 09:08.670
+checkout process.
+
+09:08.850 --> 09:11.080
+So we will all our card.
+
+09:11.100 --> 09:12.360
+So this is my card.
+
+09:12.360 --> 09:15.420
+I viewed all my card if I want to remove remove.
+
+09:15.420 --> 09:19.830
+It's not working so there are a few functionalities we are testing over here.
+
+09:19.830 --> 09:25.050
+Then we are going to select our payment method from these three payment methods which are very common
+
+09:25.050 --> 09:26.270
+in my country.
+
+09:26.310 --> 09:27.050
+Easy BSR.
+
+09:27.120 --> 09:30.340
+You'll be an omni and be at your doorstep which is the most common.
+
+09:30.340 --> 09:36.120
+I placed it at the bottom so user can tap it with his or her fingers easily.
+
+09:36.270 --> 09:37.110
+It is reachable.
+
+09:37.110 --> 09:44.700
+It is accessible if you want to learn more about usability accessibility user behavior and how psychology
+
+09:44.700 --> 09:46.110
+affects the user experience.
+
+09:46.110 --> 09:52.530
+There is a separate course from me which is on user experience principle models and behaviors user behaviors
+
+09:53.220 --> 09:58.230
+anyhow so we are going to go to confirm orders tanks and confirm order text.
+
+09:58.230 --> 10:01.730
+You will receive estimates on your number this one.
+
+10:01.920 --> 10:07.710
+And now we are going to go back to home and we have another functionality so this is a deep prototype.
+
+10:07.730 --> 10:08.070
+OK.
+
+10:08.640 --> 10:10.730
+So we have two functionalities over here in depth.
+
+10:10.740 --> 10:14.310
+We have search now and you can see we have such a lot here.
+
+10:14.310 --> 10:20.280
+We have different popular searches which are suggestions and we are going to pick one of them which
+
+10:20.280 --> 10:21.620
+is Barbie dress.
+
+10:21.780 --> 10:26.130
+And there are different results showing about this.
+
+10:26.180 --> 10:31.430
+Case so we didn't go in depth with the result filters because this is another page.
+
+10:31.440 --> 10:36.210
+This is another topic or you can see I didn't have time for that one.
+
+10:36.240 --> 10:41.880
+So this is a search functionality we can load more reserves we have add to cart we have different color
+
+10:41.910 --> 10:45.610
+options available over here we have price and title.
+
+10:45.710 --> 10:52.350
+So this is all about how you can create prototype and tested with users.
+
+10:52.350 --> 10:58.560
+So might be user might be looking for fabric type or hair so once they go to this filter results we
+
+10:58.560 --> 11:06.180
+have places where we can add like cotton fabric or something like that or maybe we can add or hair that
+
+11:06.870 --> 11:12.850
+it is a phone or this is the material of the cloth or things like that you can wear it in some hours
+
+11:12.870 --> 11:14.800
+or maybe things like that.
+
+11:15.060 --> 11:19.610
+So filters will be separate which I didn't have time to create.
+
+11:19.770 --> 11:26.190
+Anyhow this is a prototype I created I hope you love this lecture of prototyping and how I actually
+
+11:26.190 --> 11:27.660
+created this prototype.
+
+11:27.660 --> 11:33.960
+You can build it using principle and there is another apparatus by I am planning to create another course
+
+11:33.960 --> 11:39.170
+on just this prototyping and I hope to see you soon in that one too anyhow.
+
+11:39.300 --> 11:42.840
+So this is all about prototyping and user experience design.
+
+11:42.840 --> 11:47.270
+If you have any questions to ask me let's move on to the next listen.

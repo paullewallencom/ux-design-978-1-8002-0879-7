@@ -1,0 +1,247 @@
+WEBVTT
+
+00:04.450 --> 00:10.750
+Know in the last I'm going to talk about the detailed specs and brought out detailed specifications
+
+00:11.170 --> 00:16.020
+of all your system your app your website or web app.
+
+00:16.020 --> 00:23.980
+Now detailed specifications are sometimes necessary venue or whatever you are designing for example
+
+00:23.980 --> 00:31.030
+if you are designing an airline software which is going to be installed on airplanes and you can see
+
+00:31.060 --> 00:39.910
+that airplane are aviation technology which is very you can say detail and you have to get each and
+
+00:39.910 --> 00:43.380
+every step and details because it is about the safety.
+
+00:43.540 --> 00:51.580
+It is a critical app because your app can make a plane crash and hundreds of people are going to lose
+
+00:51.580 --> 00:52.930
+their lives.
+
+00:52.990 --> 00:57.100
+So your dis user experience design process will be very elaborate.
+
+00:57.100 --> 01:03.760
+You are going to have very detailed specifications you are going to generate tasks and functionality
+
+01:04.150 --> 01:05.160
+of each app.
+
+01:05.170 --> 01:11.800
+The whole interaction everything in detail your user expense design process might take a whole year
+
+01:12.440 --> 01:18.730
+at twelve months or maybe more than that to develop that design specifications and develop that actual
+
+01:18.730 --> 01:19.830
+app.
+
+01:19.960 --> 01:25.870
+Now here we are going to work with your developer and development team to create all these specs because
+
+01:25.870 --> 01:32.050
+sometimes there is miscommunication between designers as Europeans designers and developers so try to
+
+01:32.050 --> 01:41.500
+communicate with them normally in all other designs mostly which are not you can say very critical apps
+
+01:41.800 --> 01:45.880
+where we have life saving a life threatening apps things like that.
+
+01:45.940 --> 01:52.000
+We have mostly specs which are going to have high fidelity mockups which are original designs.
+
+01:52.000 --> 01:58.500
+We will have wire frames we will have interactive prototypes to show then we will have dos inventory
+
+01:58.500 --> 02:01.260
+diagrams side maps and user floors.
+
+02:01.270 --> 02:07.900
+So these are actually the major diagrams of things maybe your system model the whole the whole system
+
+02:07.900 --> 02:11.550
+model who is it is a whole it is going to work things like that.
+
+02:11.560 --> 02:19.290
+Maybe you use guesses but I normally don't use used guesses and most of the time and on the business
+
+02:19.290 --> 02:25.750
+side you might have visibility or reports or your limitations or cost or things like that.
+
+02:25.750 --> 02:29.910
+Maybe strategy your plan of having different features at different times.
+
+02:29.910 --> 02:31.000
+Things like that.
+
+02:31.260 --> 02:34.770
+These are different things you are going to generate in user expense design process.
+
+02:34.920 --> 02:36.080
+At the end.
+
+02:36.270 --> 02:37.410
+Now let's see why.
+
+02:37.410 --> 02:44.370
+Actually we are going to deliver these detailed specs and in what are the aspects we are going to cover
+
+02:44.460 --> 02:46.100
+in our specs.
+
+02:46.110 --> 02:48.270
+Now this is actually very important.
+
+02:48.300 --> 02:56.520
+You have to you know create an image of this one into your minds into your tiny tiny or large brains
+
+02:57.050 --> 02:58.090
+anyhow.
+
+02:58.230 --> 03:06.090
+So we have functionality and features so functionality and features is actually what is this system
+
+03:06.270 --> 03:07.500
+capable of.
+
+03:07.500 --> 03:11.100
+So what is this system can do.
+
+03:11.100 --> 03:12.520
+So these are actually the features.
+
+03:12.520 --> 03:19.460
+For example we are just launching 10 features or five features in our first release of our app.
+
+03:19.470 --> 03:21.680
+Then next we have floor of app.
+
+03:21.690 --> 03:23.420
+We have navigational pod.
+
+03:23.430 --> 03:29.550
+We have information in architecture that is going to cover this section we have guards sorting.
+
+03:29.550 --> 03:32.180
+We have user flaws.
+
+03:32.310 --> 03:34.290
+We have site maps that are going to cover.
+
+03:34.290 --> 03:39.380
+Then we have interactivity we I have already showed you a prototype which was deeper today.
+
+03:39.390 --> 03:46.200
+We're going to show our developers rather than telling them in a long detailed document that this is
+
+03:46.200 --> 03:47.850
+how it should work.
+
+03:47.850 --> 03:50.670
+This is how user is going to get error messages.
+
+03:50.670 --> 03:53.440
+This is how users are going to log in.
+
+03:53.460 --> 03:59.280
+So these are interactive prototypes we are going to have then we are going to develop site map which
+
+03:59.280 --> 04:06.930
+is also going to show the boundary of app or website that this is the broad spectrum image of your whole
+
+04:06.930 --> 04:08.160
+pages and sub pages.
+
+04:08.160 --> 04:12.780
+These are actually the pages that are going to be produced by a web developer.
+
+04:12.870 --> 04:14.330
+Then we have detailed wireframe.
+
+04:14.340 --> 04:22.560
+So we also want to make sure the content and how that content has been organized on each page how the
+
+04:22.560 --> 04:28.740
+product page is showing the details of your product or addresses what is present or what their colors
+
+04:29.190 --> 04:33.020
+the sizes the size guide are.
+
+04:33.060 --> 04:34.470
+We have fabric type.
+
+04:34.470 --> 04:41.340
+These things are easily viewable or easily you can say readable for use users.
+
+04:41.340 --> 04:47.090
+Does that those make sense that does the user really need this content detail.
+
+04:47.100 --> 04:52.650
+We are going to check all that messaging and details of our content in Wired frames.
+
+04:52.650 --> 04:58.500
+So that is all about detailed specs and what should be in your detailed specs and what should be in
+
+04:58.500 --> 05:05.190
+your deliverables when you are ending a user experience design process and you are delivering your documents
+
+05:05.190 --> 05:10.920
+and whatever research or things you have created to your design and development team mostly you are
+
+05:10.920 --> 05:15.930
+going to work together with them you are not going to just deliver them the documents and go home and
+
+05:15.930 --> 05:21.000
+sleep and just the work they are going to do you are going to collaborate them on a daily basis you
+
+05:21.000 --> 05:25.590
+are going to go to them and see the progress on each step.
+
+05:25.590 --> 05:27.110
+Show me what you have done right now.
+
+05:27.140 --> 05:31.280
+No this is not the user want see this document over there.
+
+05:31.290 --> 05:34.500
+The user interview we did for the first end user.
+
+05:34.500 --> 05:36.660
+This is the requirement we got.
+
+05:36.660 --> 05:41.660
+You are making and you are not making the right sense or right use of that.
+
+05:41.670 --> 05:47.160
+So this is actually going to happen because before implementation or coding you are going you have more
+
+05:47.160 --> 05:53.640
+time and you can easily save cost if you try to you know interfere in that.
+
+05:53.640 --> 05:59.580
+So try to collaborate with your developers your design team you are a huge expense designer you might
+
+05:59.580 --> 06:03.360
+have some design experience so you will be working closely with developers.
+
+06:03.480 --> 06:09.900
+So that is all you are also going to include your CEO because they also have a lot and marketing team
+
+06:09.930 --> 06:14.630
+because they have a lot of more insight into customers and their purchasing behavior.
+
+06:15.360 --> 06:16.160
+So that is all.
+
+06:16.170 --> 06:17.960
+If you have any questions to ask me.
+
+06:18.030 --> 06:19.920
+Let's move on to the next lesson.

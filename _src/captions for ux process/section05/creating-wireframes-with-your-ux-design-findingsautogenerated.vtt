@@ -1,0 +1,433 @@
+WEBVTT
+
+00:04.460 --> 00:10.850
+Now we have all the requirements of a user but actually a user needs on a page what information they
+
+00:10.850 --> 00:13.860
+are going to use to make a buying decision.
+
+00:14.210 --> 00:19.610
+And then we have all the user flows and how user is going to move from one page to another one.
+
+00:19.610 --> 00:26.270
+We have information architecture built on the user research where we found that user is going to use
+
+00:26.280 --> 00:33.950
+search box or sometimes looking for main categories ie summer collection and things like that and they
+
+00:33.950 --> 00:38.900
+are looking for deals page on the main page and things like that so we have collected all the essential
+
+00:38.900 --> 00:44.680
+information to go through and create a wireframe of our concept.
+
+00:44.690 --> 00:49.550
+So this is actually our design phase and we are actually using all the information we have gathered
+
+00:49.550 --> 00:56.510
+in the previous last lessons we have covered and it is going to be a blueprint of what actually the
+
+00:56.510 --> 00:59.450
+content must be present on a page.
+
+00:59.450 --> 01:04.670
+So we are going to add more structure and details but the colors we are not going to use colors and
+
+01:04.670 --> 01:12.200
+typefaces because it is more of a subjective issue we are more concerned about what the information
+
+01:12.290 --> 01:19.920
+must be present on a page for our user to make the decisions and secondly we are going to test it with
+
+01:19.920 --> 01:24.940
+the user that this information is essential or is it adequate for the user.
+
+01:24.950 --> 01:34.370
+And also we will show it to our stakeholders our CEO which is in case in me to see whether this is appropriate
+
+01:34.760 --> 01:36.510
+or not.
+
+01:36.530 --> 01:38.980
+So this is actually these.
+
+01:38.990 --> 01:45.260
+This is vital frame stage and via frames is let me tell you one most important thing that vial frames
+
+01:45.320 --> 01:53.180
+are the bread and butter or you can say the last final stage of a user experience designer if you are
+
+01:53.180 --> 01:55.690
+a user expand research or whatever you are.
+
+01:55.730 --> 02:00.650
+These are the things that will be the final deliverables to your design and development team.
+
+02:00.710 --> 02:02.330
+So this is very important.
+
+02:02.390 --> 02:07.820
+You can create them with any tool you have you can create them on panel paper you can create them digitally
+
+02:07.820 --> 02:15.470
+you can create them using balsamic mockups or you can use Adobe actually Photoshop or sketch software
+
+02:15.920 --> 02:17.780
+or whatever tool you have.
+
+02:17.900 --> 02:21.930
+Now let's talk about the level of detail is when you are designing something.
+
+02:21.930 --> 02:28.160
+So most of the times when you read any requirements for a job or things like that there is there are
+
+02:28.160 --> 02:36.290
+terms like lo fi medium FI or high fire low fire these I have seen a lot of times low fertility means
+
+02:36.290 --> 02:44.690
+low details they are like close to sketched things so we divide frames are almost at this stage medium
+
+02:44.690 --> 02:52.070
+fidelity might have some colors it is rough you can say interface belt portrait prototype maybe a rough
+
+02:52.070 --> 02:59.000
+prototype might have a medium fidelity and the high fidelity is actually our mock up which we are going
+
+02:59.000 --> 03:05.210
+to create and sketch or Adobe Photoshop it will be actually which will be the final user interface for
+
+03:05.210 --> 03:06.890
+our website.
+
+03:06.980 --> 03:08.820
+So this is actually the difference.
+
+03:08.840 --> 03:14.780
+You should know this difference because sometimes it is inside a job application and you should be able
+
+03:14.780 --> 03:16.280
+to understand it.
+
+03:16.340 --> 03:22.940
+Now let's see the wireframe I created for the main page and I am going to show you why I actually made
+
+03:22.970 --> 03:24.350
+all these decisions.
+
+03:24.350 --> 03:27.540
+So let's see and and go and see that.
+
+03:27.800 --> 03:33.390
+Now this is balsamic mockup software which I use to create quick mock ups you can use it will be extra
+
+03:33.440 --> 03:37.760
+Photoshop or anyone anything you have are a piece of paper if you want.
+
+03:38.270 --> 03:44.480
+Okay so here's a wireframe I really recommend that you create a wireframe using a digital app because
+
+03:44.480 --> 03:51.230
+it is more precise and you can print it and show it to others so you can see here we have the logo.
+
+03:51.230 --> 03:53.300
+This is our logo for our client.
+
+03:53.300 --> 03:56.230
+This is just the meeting we are not more.
+
+03:56.370 --> 04:02.480
+And we are not focusing on the visuals or visual design we are focusing on the message and what must
+
+04:02.480 --> 04:09.980
+be present are for the user to make the buying decision and what to make the users Apogee is easy and
+
+04:09.980 --> 04:13.950
+user friendly and improve the user experience of this e-commerce store.
+
+04:14.630 --> 04:17.270
+So let's let's zoom in a bit.
+
+04:17.270 --> 04:20.590
+Let's see if we have a full page view.
+
+04:21.930 --> 04:30.770
+There might be something over here to show at control f Okay so this is good.
+
+04:31.270 --> 04:31.870
+OK.
+
+04:32.090 --> 04:39.290
+So now you can see here we have on the left floor plan an authentic place to buy imported dresses just
+
+04:39.290 --> 04:48.830
+to show that in our country the mindset is that we love imported things if it is from Germany China
+
+04:48.830 --> 04:56.630
+or USA or any other country people are going to have more value to them attaching more value to them.
+
+04:56.660 --> 04:59.800
+So this is actually the tagline and showing the message.
+
+04:59.800 --> 05:00.350
+Okay.
+
+05:00.560 --> 05:04.410
+Then we have on the right you can see log in and create new account credit.
+
+05:04.430 --> 05:11.360
+Then sign up because when we were studying for the first time user interview with my users most of the
+
+05:11.360 --> 05:13.010
+users they didn't understand.
+
+05:13.010 --> 05:16.610
+Sign up things so they think that it is also logging.
+
+05:16.610 --> 05:19.700
+So I change it to create new account rather than sign it.
+
+05:19.730 --> 05:22.430
+Then we have log in which is very common.
+
+05:22.580 --> 05:31.700
+Then we have these two things call help line or sound data done which is actually assuring because I
+
+05:31.700 --> 05:39.320
+have seen that in the user interview we had users thinking that this site is not trustable because they
+
+05:39.320 --> 05:41.420
+are not showing any return policy.
+
+05:41.450 --> 05:47.960
+So we make sure that we have some written policy overhead then we have over here the card which is showing
+
+05:47.960 --> 05:53.390
+clearly eight items and we have a big search bar which user is going to expect on the right side.
+
+05:53.930 --> 06:00.230
+I have seen a lot of websites that they use and such bars on the left which is not a very common place
+
+06:00.230 --> 06:02.030
+for that search box.
+
+06:02.030 --> 06:09.440
+We will have some dropdown or such suggestions anyhow here we have the main page items I have added
+
+06:09.730 --> 06:16.640
+a home over here because most of the users in my country they don't know if they click on this logo
+
+06:16.670 --> 06:17.830
+they will go back to home.
+
+06:18.320 --> 06:25.850
+So I have added a home categories because most of the users if they are lost they are going to go back
+
+06:25.850 --> 06:26.700
+to home.
+
+06:26.870 --> 06:32.750
+Then we have deals page which busy moms our persona which was looking for the deals page.
+
+06:32.780 --> 06:39.430
+And we have party dresses which was a selected category when we had a card sorting exercise.
+
+06:39.620 --> 06:44.840
+And most of the users the selected party dresses other than fancy dresses then we have casual dresses
+
+06:44.870 --> 06:50.490
+then we have Barbie princess frocks so I have used both terms princess and also Barbie.
+
+06:51.180 --> 06:53.080
+So this is it.
+
+06:53.270 --> 06:55.610
+Then we have main top two sections.
+
+06:55.610 --> 07:01.130
+Here we have some other collections you if you remember that I showed you an image of a girl when she
+
+07:01.130 --> 07:02.380
+I interviewed her.
+
+07:02.570 --> 07:08.960
+She was looking for some of the collection because it was summer right now on the left we have top deals
+
+07:08.980 --> 07:09.480
+again.
+
+07:09.500 --> 07:15.920
+We are focusing on a deal spared maybe user is going to get more focused on this one rather than clicking
+
+07:15.940 --> 07:19.040
+our overhead bottom at the bottom.
+
+07:19.040 --> 07:22.920
+We have different dresses which are right not popular.
+
+07:23.030 --> 07:30.680
+So let's move bit down a popular dresses and which are mostly bought right now.
+
+07:30.830 --> 07:36.770
+So user might be inclined to buy dresses which others are looking at right now or maybe trying to buy
+
+07:36.770 --> 07:37.780
+right now.
+
+07:37.790 --> 07:39.540
+So these are different dresses.
+
+07:39.680 --> 07:43.570
+We can add more categories but this is actually our mean.
+
+07:43.760 --> 07:51.620
+You can say focus to cover the first section which is mostly above the fold or in the fall area where
+
+07:51.620 --> 07:54.370
+the user is going to mostly browse.
+
+07:54.370 --> 08:00.170
+So users if you don't know what is forward forward is actually the top seven or eight hundred pixels
+
+08:00.170 --> 08:03.790
+which mostly users browse on a.
+
+08:03.860 --> 08:05.750
+It is not the same on your mobile.
+
+08:05.750 --> 08:08.840
+Mobile phones will have like four to five hundreds.
+
+08:08.840 --> 08:12.460
+And we might have just this section or hair or maybe this one.
+
+08:12.980 --> 08:17.230
+So we are going to show these two in the top section OK.
+
+08:17.230 --> 08:18.230
+So that is all.
+
+08:18.340 --> 08:24.310
+Again we have of Franklin address and phone number at the bottom to make sure that users have something
+
+08:24.310 --> 08:25.130
+over here.
+
+08:25.180 --> 08:28.000
+Then we have again repeating the same at the footer.
+
+08:28.030 --> 08:32.460
+Users are not going to be very much interested in the photo right now.
+
+08:32.470 --> 08:37.990
+Also over here we can add something like order via WhatsApp.
+
+08:38.020 --> 08:46.650
+So let's add that right now because we found out that users actually love ordering via what's app so
+
+08:46.680 --> 08:50.180
+we are going to replicate this by clicking out.
+
+08:50.460 --> 08:55.140
+The software is very easy to use I have a free video on my youtube channel if you want to watch how
+
+08:55.410 --> 09:02.310
+to use balsamic mockups you can go to my YouTube channel Len you excite me and you can search for wild
+
+09:02.310 --> 09:08.080
+frames and you will have a very detailed 15 minutes video on how to use this tool.
+
+09:08.130 --> 09:10.440
+So we are going to have order
+
+09:12.990 --> 09:15.480
+locks app order
+
+09:18.250 --> 09:22.770
+Okay so next Jane the icon over here.
+
+09:22.780 --> 09:32.570
+If we have uh um message or things something like this something like this.
+
+09:33.210 --> 09:37.380
+Okay so we have something like that or here.
+
+09:37.490 --> 09:45.560
+So uh this is going to you know let's move it to this one like go ahead because user is going to look
+
+09:45.560 --> 09:51.510
+on the light right side and the control and more so that is it.
+
+09:51.510 --> 09:58.680
+I think this is our wireframe and I have shown you all the decisions we have made why actually we are
+
+09:58.680 --> 10:03.840
+using these categories over here because we found out in our card sorting that users are using these
+
+10:03.840 --> 10:10.730
+terms to define our different categories of clothes then we have someone collection which uses were
+
+10:10.740 --> 10:16.740
+looking for when it comes Vinter we are going to show the vendor or we can sure like three columns over
+
+10:16.740 --> 10:22.860
+here and we can also show rental because sometimes users might want to look for winter collection before
+
+10:22.860 --> 10:26.380
+they even though before the winter is going to come.
+
+10:26.400 --> 10:26.630
+Okay.
+
+10:26.640 --> 10:30.360
+So again we have all these.
+
+10:30.360 --> 10:37.890
+If you have any questions regarding why and how I created this whole wireframe and what other decisions
+
+10:38.280 --> 10:46.290
+we had you can see in the d d I have 90 percent off which is a very good call to action that please
+
+10:46.290 --> 10:47.520
+buy this.
+
+10:47.520 --> 10:52.120
+Then we have this just arrived which is showing that these are latest designs.
+
+10:52.140 --> 10:58.530
+So it is also showing the fabric here you can see made with imported chiffon fabric.
+
+10:59.490 --> 11:01.890
+So this is the title of the frock then.
+
+11:01.980 --> 11:10.020
+And then we are going to show the the fabric of what it is made of because most women they are mostly
+
+11:10.290 --> 11:12.000
+interested in the fabric.
+
+11:12.000 --> 11:13.190
+So that is all.
+
+11:13.200 --> 11:19.560
+If you have any questions do ask me this is how we went through the whole use Express design process
+
+11:19.560 --> 11:22.260
+and created this wireframe of the main page.
+
+11:22.260 --> 11:25.980
+We can also create a wireframe of the products page.
+
+11:26.100 --> 11:33.300
+And right now I don't have time to create all of vide frames because I the reason is just to teach you
+
+11:33.300 --> 11:40.200
+how the use Express process how this information architecture user flows everything is going to help
+
+11:40.200 --> 11:45.920
+you decide and make a better user experience for this fraudulent e-commerce Web site.
+
+11:45.920 --> 11:49.900
+Let us move on to the next lesson and see what we have ahead.
+
+11:49.980 --> 11:52.080
+See you soon in another video you.

@@ -1,0 +1,448 @@
+WEBVTT
+
+00:04.420 --> 00:07.490
+Now let's talk about essential tasks test.
+
+00:07.510 --> 00:14.860
+Now this is actually the cream off your usability test because it is actually the main base of usability
+
+00:14.860 --> 00:15.750
+tests.
+
+00:15.760 --> 00:21.040
+This is the main test you are going to do with your app your website.
+
+00:21.070 --> 00:27.760
+And as the name suggests you are going to list out all the different essential tasks your users are
+
+00:27.760 --> 00:34.810
+going to perform on your website or your app on daily basis or again and again in my case which is fraudulent
+
+00:34.840 --> 00:42.430
+e-commerce for my users are going to mostly do log in sign up check out browsing products filtering
+
+00:42.430 --> 00:48.190
+products finding products adding them to the card removing them from the card moving them to the fresh
+
+00:48.190 --> 00:51.530
+fish list and moving them back from the visuals to the card.
+
+00:51.640 --> 00:52.870
+Things like that.
+
+00:52.870 --> 00:59.620
+So I'm going to list out all essential tasks and I'm going to plan out different tasks scenarios and
+
+00:59.620 --> 01:07.930
+build them to follow our users to perform and we are going to test all these tasks based on some metric
+
+01:08.110 --> 01:10.330
+we're going to see in the next slide.
+
+01:10.330 --> 01:12.120
+So let's see what that is.
+
+01:12.130 --> 01:16.330
+Now in any usability test there are two ways to do it.
+
+01:16.330 --> 01:23.350
+One is that for example I have already a product already of upside which I want to improve and I have
+
+01:23.350 --> 01:29.110
+found few problems that I think that this is my problem statement that I believe that users are not
+
+01:29.110 --> 01:30.710
+taking an action on this bid.
+
+01:30.730 --> 01:36.700
+This is in case of my frock and Web site because the major categories are here and now I'm going to
+
+01:36.700 --> 01:38.790
+show the screen after this.
+
+01:38.800 --> 01:41.200
+So this will make more sense to you.
+
+01:41.190 --> 01:44.910
+Users will navigate easily if we make subcategories to categories.
+
+01:44.920 --> 01:52.120
+So we are going to move subcategories and show them visibly on our main categories in our navigation
+
+01:52.120 --> 01:52.930
+bar.
+
+01:52.930 --> 01:57.770
+This is my eye hypothesis that this is how it will solve this problem.
+
+01:57.790 --> 02:06.130
+Now metrics are what are actually the bank marking things we are going to use to test these for example
+
+02:06.130 --> 02:08.410
+number of clicks or time to locate the item.
+
+02:08.410 --> 02:14.120
+These are the things that are going to decide that I was right or it actually has improved.
+
+02:14.120 --> 02:15.480
+Now this is my frock line.
+
+02:15.490 --> 02:21.430
+If you remember in the previous lesson we had one main category shop over here and all these categories
+
+02:21.430 --> 02:29.410
+party dress is casual they were inside that shop and now my hypothesis is that if I move them outside
+
+02:29.410 --> 02:36.220
+like over here and made the major categories rather than subcategories it will help user to locate them
+
+02:36.610 --> 02:41.030
+and it will increase our you can say in revenue or clicks.
+
+02:41.110 --> 02:46.660
+So we are going to test it with our metric which is time to locate.
+
+02:46.690 --> 02:56.770
+This is very essential and I will write some tasks scenario that you want something for your summer
+
+02:56.770 --> 02:57.490
+vacations.
+
+02:57.490 --> 03:00.940
+What would you where would you go to find that dress.
+
+03:01.000 --> 03:07.630
+So if the user goes toward hair Summer and Summer collection that is going to tell me if it takes like
+
+03:07.750 --> 03:11.480
+five seconds to them I'm going to make sure that this is great.
+
+03:11.680 --> 03:17.680
+We are improving but in the previous design actually we are going to test two versions of this design
+
+03:17.680 --> 03:25.510
+one as the previous one which is called A B testing so we are going to test two versions different versions
+
+03:25.870 --> 03:29.850
+of the same main page and see which one performs better.
+
+03:30.040 --> 03:33.020
+And we will decide that this is actually helping them.
+
+03:33.190 --> 03:36.730
+They are able to get to that within two seconds.
+
+03:36.730 --> 03:38.000
+This is great.
+
+03:38.080 --> 03:43.090
+Now we are going to write our task details in a scenario format a short story.
+
+03:43.090 --> 03:48.810
+We are not going to see them that try to click on this go to check out and things like that.
+
+03:48.820 --> 03:54.450
+We are not going to give them any hints any labels any navigational items names.
+
+03:54.460 --> 04:02.460
+I am I am using for example in case of my website let me show you for example we have summer winter
+
+04:02.520 --> 04:06.150
+collection party dresses casual Princess Barbie and things like that.
+
+04:06.150 --> 04:10.080
+So I am not going to use a check out or things like that.
+
+04:10.080 --> 04:11.540
+I might use that.
+
+04:11.550 --> 04:15.950
+What would you do once you have added your items to your card.
+
+04:15.990 --> 04:19.210
+How would you go forward from there.
+
+04:19.380 --> 04:20.130
+Are things like that.
+
+04:20.130 --> 04:26.400
+I'm not going to give them a hint of like try to check out using my website.
+
+04:26.400 --> 04:28.280
+This is not a European usability test.
+
+04:28.800 --> 04:30.840
+This is a direction you are giving them.
+
+04:30.990 --> 04:33.640
+The whole thing you are not going to give them any hints.
+
+04:33.840 --> 04:40.050
+Here is an example of writing tasks and for your usability test and case of my frog clan.
+
+04:40.050 --> 04:43.170
+Here I am going to give you something like this.
+
+04:43.260 --> 04:49.560
+You clicked on a Facebook ad for a kid's clothing website and read this page to buy our dress for your
+
+04:49.560 --> 04:50.500
+daughter.
+
+04:50.520 --> 04:51.990
+What is the first thing you would do.
+
+04:51.990 --> 04:57.360
+I would like to see whether they are going to create a new account or they are going to start adding
+
+04:57.360 --> 04:58.490
+dresses to their car.
+
+04:58.500 --> 04:59.850
+Things like that.
+
+04:59.850 --> 05:04.050
+Now there is another technique that you lead your user from one task to another.
+
+05:04.230 --> 05:09.020
+So I start with one task which was previous one I am going to give them a new task.
+
+05:09.360 --> 05:10.270
+Now the next task.
+
+05:10.290 --> 05:14.930
+Now you want to get a perfect dress for your little girl for her birthday party by tomorrow.
+
+05:15.000 --> 05:16.250
+What steps would you take now.
+
+05:16.260 --> 05:18.200
+Can you show us things like that.
+
+05:18.270 --> 05:26.160
+Then after that once she has added a few dresses to our cart I am going to say what would you do next
+
+05:26.160 --> 05:29.010
+to get those dresses at your doorstep.
+
+05:29.010 --> 05:37.050
+I am not using keyword checkout so if you see my website right here you can see I have used checkout
+
+05:37.350 --> 05:40.200
+over here so I am not using this keyword.
+
+05:40.200 --> 05:45.100
+I am not going giving them hints that try to check out from here.
+
+05:45.210 --> 05:51.780
+So I would like to see how they actually approach it whether they click this card or here first or whether
+
+05:51.780 --> 05:54.600
+they click on this check out things like that.
+
+05:54.600 --> 05:59.190
+There are a few things you need to do while you are conducting your usability test.
+
+05:59.190 --> 06:01.830
+The first thing is that keep quiet.
+
+06:01.840 --> 06:03.680
+Don't give your user.
+
+06:03.900 --> 06:07.920
+You can see hints and don't guide them.
+
+06:07.920 --> 06:08.910
+Just keep quiet.
+
+06:08.910 --> 06:10.930
+This is the most difficult thing I find.
+
+06:10.930 --> 06:16.290
+I found out that this is most difficult for me because I talk a lot.
+
+06:16.290 --> 06:18.240
+So you have to keep quiet.
+
+06:18.240 --> 06:22.060
+You have to not answer their duties.
+
+06:22.080 --> 06:26.010
+You just keep them asking what do you expect it to do.
+
+06:26.010 --> 06:27.750
+What do you think it does.
+
+06:27.750 --> 06:30.770
+You are going to answer the questions with another question.
+
+06:30.780 --> 06:37.170
+One more tip is that try to rehearse with your friend or team member before conducting any usability
+
+06:37.170 --> 06:44.890
+test because in the first few minutes you are also going to tell them that this is the product.
+
+06:44.970 --> 06:46.160
+Introduce them to that.
+
+06:46.170 --> 06:52.200
+Tell them a little bit about it and tell them that you are we are going to give you some tasks and we
+
+06:52.200 --> 06:55.260
+are not testing you but we are testing this product.
+
+06:55.350 --> 06:57.830
+How good it is and how bad it is.
+
+06:57.870 --> 07:00.750
+So do whatever you do freely.
+
+07:00.750 --> 07:05.040
+Don't try to think that it would be.
+
+07:05.040 --> 07:06.090
+We are testing you.
+
+07:06.090 --> 07:08.160
+We are just chatting testing this product.
+
+07:08.790 --> 07:13.480
+So just to build up some confidence with your user and get familiar with them.
+
+07:13.560 --> 07:19.830
+One technique or thing allow technique is you are going to ask your users to keep thinking with their
+
+07:19.830 --> 07:26.280
+mouth so they are going to see all the words they are thinking in their head and you are going to record
+
+07:26.280 --> 07:29.100
+that video and audio and also write down some notes.
+
+07:29.100 --> 07:33.580
+If you find something and this is actually going to help you a lot.
+
+07:33.580 --> 07:36.060
+Now let me show you what actually this thing allow.
+
+07:36.060 --> 07:44.520
+Technique is now you can see that I am user and I have given a task to go and find some someone collection
+
+07:45.180 --> 07:48.600
+or summer clothes or clothes for your heart.
+
+07:48.600 --> 07:51.870
+Whether I am also excluding summer or here anyhow.
+
+07:52.350 --> 07:55.060
+So I would say something like that.
+
+07:55.150 --> 08:04.440
+Okay so I need to dress for a heart whether I would go in some summer collection.
+
+08:04.950 --> 08:06.150
+Okay so I have found it.
+
+08:06.160 --> 08:10.470
+I'm going to click over here and these are few dresses I can see.
+
+08:11.100 --> 08:14.250
+So this is actually I think allowed technique.
+
+08:14.250 --> 08:21.510
+Your user is going to say whatever they have in they have been thinking all along while performing these
+
+08:21.510 --> 08:22.410
+tasks.
+
+08:22.410 --> 08:28.800
+If you use a stop somewhere you have to tell them that I want you to think aloud.
+
+08:28.810 --> 08:30.670
+Tell me what are you thinking.
+
+08:30.700 --> 08:32.090
+So ask them like that.
+
+08:32.140 --> 08:34.920
+Know what we will get from these and usability tests.
+
+08:34.930 --> 08:40.720
+We are going to gnaw down all the pain points are all the major frustrations or problems of our users
+
+08:41.170 --> 08:44.020
+actually faced and we we're going to lift them out.
+
+08:44.020 --> 08:49.690
+We are going to give them suggestions to have our developers and designers that this is how this problem
+
+08:49.690 --> 08:51.100
+can be tackled.
+
+08:51.100 --> 08:55.750
+This is how this problem can be solved and we are also going to list that.
+
+08:55.750 --> 08:57.430
+What is the time taken.
+
+08:57.430 --> 09:02.120
+What were the number of atoms whether the user completed successfully or not.
+
+09:02.230 --> 09:03.770
+So things like that.
+
+09:03.770 --> 09:10.720
+I'm going to show you the template of a form user analysis form you can use while doing these usability
+
+09:10.720 --> 09:11.500
+tests.
+
+09:11.590 --> 09:13.130
+Make sure you download it.
+
+09:13.250 --> 09:15.250
+Now this is a very simple form.
+
+09:15.250 --> 09:17.080
+We have a name of a user.
+
+09:17.320 --> 09:18.800
+We have prototype number.
+
+09:18.810 --> 09:24.790
+Whichever prototype whether it was a check out prototype or whatever we had.
+
+09:24.790 --> 09:30.400
+Then the screen name what which screen they were on whether they were on log in screen sign up screen
+
+09:30.820 --> 09:37.190
+dos detailed what dos they were performing tasks to complete an address to their card or whatever.
+
+09:37.230 --> 09:41.470
+What is the time taken eight minutes rather than complete it or not.
+
+09:41.590 --> 09:44.470
+Yes or no completed possible pain points.
+
+09:44.700 --> 09:45.540
+No or yes.
+
+09:45.550 --> 09:50.560
+And we are going to write some notes over here that this is the pain point they had.
+
+09:50.560 --> 09:57.380
+You can also write add another column and give them suggestions that this is how it can be solved.
+
+09:57.400 --> 10:05.030
+So this is actually the listing of all your pain points and using different dos and different users.
+
+10:05.080 --> 10:08.860
+So I suggest that do it with at least three to five users.
+
+10:08.860 --> 10:16.060
+This is the sweet spot and I hope you have enjoyed this lesson and understood what is actually usability
+
+10:16.060 --> 10:18.230
+tests and how we perform them.
+
+10:18.340 --> 10:22.180
+So let's move on to the next lesson and see what we have ahead.

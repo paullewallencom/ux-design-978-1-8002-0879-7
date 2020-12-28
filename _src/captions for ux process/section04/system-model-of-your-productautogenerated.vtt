@@ -1,0 +1,136 @@
+WEBVTT
+
+00:03.830 --> 00:09.900
+Now the first diagram you're going to build in use it expands design process is actually system model
+
+00:09.960 --> 00:16.640
+or some may call it proposed system model that this is how our website or our app is going to work.
+
+00:16.650 --> 00:23.680
+These are the work rules all the major interesting parties that are going to use your system.
+
+00:24.120 --> 00:27.390
+Okay so that is going to be a bird's eye view.
+
+00:27.390 --> 00:35.160
+We are going to look at the overall build of our system how it is going to work and what is its major
+
+00:35.160 --> 00:36.270
+boundaries.
+
+00:36.270 --> 00:37.350
+So here we go.
+
+00:37.350 --> 00:40.360
+And let me show you what I'd actually work rules.
+
+00:40.380 --> 00:43.440
+We have already learned about work rules and personas.
+
+00:43.590 --> 00:51.360
+But here actually why I am talking about these work rules is that they are more related to your system
+
+00:51.360 --> 00:56.430
+diagram because each worker will have different jobs and different tasks.
+
+00:56.430 --> 01:03.630
+So from those work rules you are going to extract different tasks and those tasks are going to be built
+
+01:03.630 --> 01:05.730
+into your requirements of your app.
+
+01:05.730 --> 01:12.180
+So for example in my land e-commerce Web site a shopper is actually a user is a work role.
+
+01:12.180 --> 01:18.150
+Then we have an admin delivery guy company or delivery company supplier.
+
+01:18.600 --> 01:23.880
+Even as a mess or the mobile network company these are all linked.
+
+01:24.030 --> 01:26.980
+They are linked in to my system somehow.
+
+01:27.150 --> 01:28.690
+They are my work roles.
+
+01:28.740 --> 01:33.970
+So this is the thing you are going to you know look for when you are going to create your system.
+
+01:33.990 --> 01:35.960
+So let's see some example.
+
+01:36.210 --> 01:39.620
+The real example which I created this is not rocket science.
+
+01:39.630 --> 01:45.750
+It is very easy don't you know try to think that oh my god I how I am going to do that.
+
+01:45.780 --> 01:51.750
+This is very simple if you can draw some circles you can draw this system diagram on a paper.
+
+01:51.800 --> 01:59.870
+OK so let's see something example so you can see here is a system model I created using balsamic mockups
+
+01:59.870 --> 02:04.370
+you can use any software any tool even you can use paper and pencil.
+
+02:04.550 --> 02:10.360
+So the dotted line you can see it is actually the boundary of my system that these other tasks are functions
+
+02:10.360 --> 02:18.440
+it can perform the outside people that are CEO and main customer or shopper third party vendor dressmaker
+
+02:18.470 --> 02:24.660
+or delivery company they are actually my work roles and they are interacting with this system the system.
+
+02:24.680 --> 02:30.950
+This is my boundary and here we have admin that is managing product details images prices and creating
+
+02:30.950 --> 02:38.150
+deals then we have CEO says reports revenue generated in monthly sales then we have customers article
+
+02:38.150 --> 02:46.670
+frocks and dresses and keep updated about the new products filtering and with these few criteria is
+
+02:47.640 --> 02:53.070
+then we have orchestrator operated by a tracking number and azimuth receiving estimates and giving sending
+
+02:53.070 --> 02:58.500
+a semester the customer not this s Amazon order track tracking is also linked to delivery company because
+
+02:58.500 --> 03:05.040
+they are going to send these estimates then we have order dispatch with printed labels or delivery can
+
+03:05.040 --> 03:12.180
+be we are going to dispatch that to a delivery company maybe there might be someone else who is dispatching
+
+03:12.180 --> 03:17.310
+this past manager or something like that but I am not showing it over here then we have stock level
+
+03:17.310 --> 03:24.400
+alerts or maybe someone manually calling the third party vendors that we have this shortage of this
+
+03:24.400 --> 03:30.180
+dress please send us ten more pieces or 50 more pieces so stock level alerts.
+
+03:30.180 --> 03:31.670
+We also need dresses.
+
+03:31.680 --> 03:35.710
+We are not going to make them but we're going to buy them from third party.
+
+03:35.820 --> 03:43.590
+So this is actually the system model simple system model or system diagram of how my e-commerce store
+
+03:43.590 --> 03:48.870
+for frock land is going to work I hope you have enjoyed this lesson if you have any questions to ask
+
+03:48.870 --> 03:54.030
+me I am going to share all these documents and the resources so don't forget to download them and see
+
+03:54.030 --> 03:54.840
+them up close.
+
+03:54.840 --> 03:56.460
+See you soon in the next lesson.

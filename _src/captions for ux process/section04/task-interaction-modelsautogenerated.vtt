@@ -1,0 +1,232 @@
+WEBVTT
+
+00:04.540 --> 00:09.650
+OK now in this lesson we are going to see what is task interaction models.
+
+00:09.760 --> 00:17.110
+Now ask injection models as a name suggests that they are going to be revolving around a task and the
+
+00:17.110 --> 00:19.960
+interaction between the user and the system.
+
+00:19.990 --> 00:26.230
+So a task injection model is required to show all the interactions between your system and the user.
+
+00:26.260 --> 00:32.650
+You can define all the requirements and all the different stuff related to your user needs and things
+
+00:32.650 --> 00:33.180
+like that.
+
+00:33.190 --> 00:38.980
+But how the development team or developers are going to know how the user is going to interact and what
+
+00:38.980 --> 00:40.570
+will be the system response.
+
+00:40.570 --> 00:49.990
+For example we want to show so sure some animation or some you can see swipe effect for the users to
+
+00:50.040 --> 00:54.520
+you know get the idea of what is happening maybe we want to show some error message.
+
+00:54.580 --> 01:00.750
+So this is actually going to show all the required steps and user actions to complete a task.
+
+01:00.760 --> 01:09.810
+Now this is actually a very you can see formal interaction model you can also do what you can also do
+
+01:09.820 --> 01:11.320
+in recent years.
+
+01:11.320 --> 01:18.280
+We have seen a lot of great prototyping apps like proto by then we have principal.
+
+01:18.290 --> 01:20.250
+Then we have our Dolby actually.
+
+01:20.440 --> 01:26.320
+You can also build different task interaction models using Adobe equity.
+
+01:26.380 --> 01:26.630
+Okay.
+
+01:26.670 --> 01:30.470
+So you need to show how user is going to interact with the system what will be their use.
+
+01:30.480 --> 01:32.170
+And your system's response.
+
+01:32.170 --> 01:39.220
+You don't need to write a long stories and long documentations which which will be difficult for the
+
+01:39.220 --> 01:41.460
+developer to you know understand.
+
+01:41.830 --> 01:48.490
+You can just show them by using prototypes so you can build different prototypes for different task
+
+01:48.490 --> 01:50.730
+interactions between their user and your system.
+
+01:50.740 --> 01:51.430
+And that is all.
+
+01:51.850 --> 01:55.540
+But right now we need to see what is actually starts contraction models.
+
+01:55.570 --> 02:04.720
+Just expand your you can say knowledge frame frame of knowledge that this is actually why we are doing
+
+02:04.720 --> 02:06.160
+it now.
+
+02:06.220 --> 02:09.670
+The parts of past contraction models are the Task Name.
+
+02:09.670 --> 02:11.320
+The goal of your task.
+
+02:11.320 --> 02:12.370
+What is a trigger.
+
+02:12.370 --> 02:13.300
+What was the trigger.
+
+02:13.300 --> 02:13.630
+Why.
+
+02:13.630 --> 02:15.680
+The user started this task.
+
+02:16.210 --> 02:23.350
+What are the needs during the stocks for example a logging task needs a logging name or email address
+
+02:23.680 --> 02:28.180
+and then the password and also the barriers faced by users during the task.
+
+02:28.180 --> 02:33.830
+So what will be the barriers or what will be the problems user actually faced doing the task.
+
+02:33.850 --> 02:42.490
+So this is actually you can see a detailed task interaction model which shows that how and why user
+
+02:42.820 --> 02:49.870
+started this task and what happened doing this task and how the system responded with the messages or
+
+02:49.870 --> 02:50.920
+things like that.
+
+02:50.950 --> 02:56.470
+So let's see one example which I paid for specifically for this project from Oakland.
+
+02:56.650 --> 03:02.650
+Let me show you that now you can see this is a task interaction model for ordering us and real address.
+
+03:02.660 --> 03:07.810
+So this is the task I gave to the user and this is how actually things are going to happen on the left
+
+03:07.810 --> 03:12.640
+side is a user on the right side of the system customer search for Cinderella in the search box and
+
+03:12.640 --> 03:13.800
+click such button.
+
+03:13.990 --> 03:15.970
+You can see this is what did you do.
+
+03:15.970 --> 03:18.990
+It is showing each and every step taken by the user.
+
+03:19.000 --> 03:21.550
+This is actually very necessary.
+
+03:21.550 --> 03:25.150
+Now the next step is just clicked on the first item on such user spirit.
+
+03:25.150 --> 03:30.010
+It is also showing what is the behavior how they actually select things system return their detail page
+
+03:30.010 --> 03:35.840
+for the address customer selected customer selected pink color from the to available color options system
+
+03:35.840 --> 03:37.540
+switch the preview image to pink dress.
+
+03:37.540 --> 03:42.700
+So this is actually we are showing that this is actually how our system is going to work.
+
+03:42.760 --> 03:49.370
+Customer selected four to five years from the sizes list system highlighted the selected size and updates.
+
+03:49.490 --> 03:53.460
+Thus in stock status so right now it is in stock.
+
+03:53.610 --> 03:57.240
+Customers is a bit confused about the sizing options.
+
+03:57.370 --> 04:02.890
+So this is actually the barrier custom faced customer actually faced.
+
+04:03.310 --> 04:08.110
+And then we have customer clicked on size charts to see whether she has selected the correct side system
+
+04:08.110 --> 04:11.230
+shows the size charts on as an overlay image.
+
+04:11.230 --> 04:17.470
+Customer clicked on size chart to see whether she has selected so this is actually the user and system
+
+04:17.500 --> 04:19.060
+interacting with each other.
+
+04:19.090 --> 04:24.030
+These are the inputs what the user is doing what are the outputs denoted by the system.
+
+04:24.130 --> 04:28.310
+What are the barriers doing that which user actually faced.
+
+04:28.390 --> 04:38.980
+So this can also be your task analysis you did in your user research or it can be done on a prototype
+
+04:38.980 --> 04:43.480
+you have already developed so you had a prototype you show it to your user they used it they perform
+
+04:43.480 --> 04:50.890
+the task and this is what happened so this is all about task contraction model you can skip that you
+
+04:50.890 --> 04:58.760
+can skip that and just try to build a few prototypes because it is easier and then more visual and this
+
+04:58.760 --> 05:02.330
+shows rather than tell that is what we need.
+
+05:02.410 --> 05:02.750
+Okay.
+
+05:03.160 --> 05:06.020
+So I hope you enjoyed this task interaction model.
+
+05:06.100 --> 05:08.160
+If you have any questions to ask me.
+
+05:08.170 --> 05:12.700
+Don't forget to ask me a lot of questions because I love them.
+
+05:12.700 --> 05:19.030
+And sometimes a lot of my students that they give to Star of wonder star or three star reviews they
+
+05:19.060 --> 05:22.310
+don't happen to ask any questions to me.
+
+05:22.420 --> 05:30.050
+So this is very you can see very sad for me when the don't ask questions and they just leave one or
+
+05:30.050 --> 05:31.270
+two star reviews.
+
+05:31.400 --> 05:33.220
+I hope you have enjoyed this lesson.
+
+05:33.260 --> 05:34.820
+Let's move on to the next lesson.

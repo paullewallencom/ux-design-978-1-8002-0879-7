@@ -1,0 +1,397 @@
+WEBVTT
+
+00:05.210 --> 00:10.850
+In this video we're going to talk about competitive analysis and what it was you were building whether
+
+00:10.850 --> 00:16.460
+it's a Web site or app or new product that is revolutionary.
+
+00:16.460 --> 00:22.230
+There will always be some sort of competition.
+
+00:22.460 --> 00:29.150
+So by competition I mean there must be some products that are similar to your product or they are close
+
+00:29.150 --> 00:29.960
+to your product.
+
+00:30.410 --> 00:32.750
+So I don't think that there is no competition.
+
+00:32.750 --> 00:39.080
+There will always be some competition or some competitor to your product.
+
+00:39.680 --> 00:41.270
+So why would we do this.
+
+00:41.270 --> 00:50.150
+We are going to check and benchmark our app our website or our product with other similar products so
+
+00:50.150 --> 00:54.290
+we are going to see where we stand in this race.
+
+00:54.290 --> 00:55.610
+So this is very important.
+
+00:55.610 --> 01:02.510
+It is going to give you a lot of in-depth analysis of what the competition is doing and what we should
+
+01:02.510 --> 01:03.440
+do.
+
+01:03.470 --> 01:09.140
+Now the question is What are different factors you should test with your competitors.
+
+01:09.260 --> 01:16.490
+Now the first thing is in my case which is from clan website I'm going to check navigation information
+
+01:16.490 --> 01:23.160
+architecture how they are moving the customers from the logon page to the checkout page.
+
+01:23.210 --> 01:29.840
+Then the second one will be product information and it is for are different frocks or dresses informations
+
+01:30.680 --> 01:36.410
+or pieces of information that are present on other websites what are their standards.
+
+01:36.440 --> 01:39.760
+Similarly we are also going to see trust and credibility.
+
+01:39.770 --> 01:45.200
+So how much and why our customers.
+
+01:45.200 --> 01:51.270
+They have more trust on other brand or maybe other e-commerce store or maybe other app.
+
+01:51.290 --> 01:59.360
+Why their usage and why they think that it is more credible than I also have asked few things about
+
+01:59.390 --> 02:02.240
+onboarding log in and sign ups.
+
+02:02.240 --> 02:05.610
+You are also going to see what our different call to actions.
+
+02:05.750 --> 02:08.120
+What are the labels they have been using.
+
+02:08.120 --> 02:09.390
+How effective they are.
+
+02:09.410 --> 02:13.730
+Call to actions are for example Biden or button or add to card.
+
+02:13.730 --> 02:16.110
+You have seen on Amazon dot com.
+
+02:16.250 --> 02:22.460
+It is strictly different from the whole bid and it is orange and yellow and they really attract the
+
+02:22.460 --> 02:23.000
+customer.
+
+02:23.930 --> 02:30.230
+Similarly we want to see the checkout process because each website each e-commerce platform there are
+
+02:30.230 --> 02:32.630
+different rules different checkout process.
+
+02:32.720 --> 02:40.520
+So if you are building any app or anything these things will be different for those so if you will in
+
+02:40.520 --> 02:43.300
+my case I was testing e-commerce Web site.
+
+02:43.400 --> 02:48.890
+So I have listed these few things which I am going to test with my competitors.
+
+02:49.000 --> 02:53.050
+Now how we are going to conduct competitive analysis.
+
+02:53.510 --> 03:02.120
+The thing is that you need to ask your users during the interview to order something or to use your
+
+03:02.120 --> 03:04.590
+competitors website.
+
+03:04.640 --> 03:11.960
+I actually did it and it is the best way to learn what they have in their products and what they lack
+
+03:12.050 --> 03:13.250
+in their products.
+
+03:13.250 --> 03:14.560
+What are their strengths.
+
+03:14.570 --> 03:16.410
+What are their weaknesses.
+
+03:16.460 --> 03:22.870
+Because we need to see what our different usability problems are the when my customer.
+
+03:22.910 --> 03:26.360
+They go to another e-commerce website or a similar app.
+
+03:26.360 --> 03:34.100
+I am building what are the problems they face how and which areas are sections of the app we can improve
+
+03:34.250 --> 03:37.940
+or we have opportunity to improve that.
+
+03:37.940 --> 03:45.530
+So in this whole competitive analysis we are going to look at different sections which we think are
+
+03:45.590 --> 03:46.880
+essential to our app.
+
+03:46.880 --> 03:50.890
+We are also going to benchmark our system or our app.
+
+03:50.900 --> 03:58.040
+If we already have an app we are going to benchmark it said that right now we stand at 60 percent or
+
+03:58.820 --> 04:04.500
+we give our our self like 50 percent on log in.
+
+04:04.520 --> 04:11.240
+So our logon is 50 percent easier with respect to the standards which others are following.
+
+04:11.270 --> 04:12.980
+So we need to improve that.
+
+04:13.010 --> 04:20.900
+So whenever you are doing user experience process or you will expense research or user interviews there
+
+04:20.900 --> 04:29.270
+will be two scenarios whether you already have the product build or you have to build a product from
+
+04:29.270 --> 04:37.070
+scratch so these are two points from where you will always start your user experience design process.
+
+04:37.160 --> 04:46.370
+So in both processes you are going to check your website your app your your mobile app or whatever you
+
+04:46.370 --> 04:49.670
+are building your product with your competition.
+
+04:49.670 --> 04:55.190
+So even if it's not a digital product you are still going to check it with similar products already
+
+04:55.190 --> 04:56.160
+built.
+
+04:56.180 --> 05:03.380
+Now let me show you the document I prepared and what I did in my competitive analysis and you can download
+
+05:03.380 --> 05:09.380
+this competitive analysis document from this lesson in the resources.
+
+05:09.380 --> 05:12.070
+So don't worry that you will not get it.
+
+05:12.080 --> 05:14.300
+There are different formats I am going to show you.
+
+05:14.300 --> 05:15.660
+It is very easy.
+
+05:15.770 --> 05:17.330
+Don't worry at all.
+
+05:17.330 --> 05:24.790
+Let's see this example now here is my comparative analysis for Franklin.
+
+05:24.870 --> 05:30.630
+And you can see I have written all here tested for log and sign up credibility searching filtering and
+
+05:30.630 --> 05:34.050
+check out process so you can see here.
+
+05:34.050 --> 05:40.950
+I have tested my competitors main competitors were that I was taught be gay which is one of the biggest
+
+05:40.980 --> 05:43.460
+online store in my country.
+
+05:43.530 --> 05:47.770
+Then I have sharp hive which is very old and very credible online store.
+
+05:47.790 --> 05:54.950
+Then we have e export left towards yellow which have different kind of category of goods to sell.
+
+05:55.290 --> 06:02.850
+So I needed to see what are different online competitors and what are their strengths and weaknesses.
+
+06:02.850 --> 06:09.750
+Now if we talk about shop hive they are very credible but they are not related to my niche which is
+
+06:09.750 --> 06:15.260
+clothing so sharp hive was related to.
+
+06:15.450 --> 06:24.780
+You can say technology products so they are selling computers things like that but I included it just
+
+06:24.780 --> 06:32.510
+to see how the checkout process is and how their logging is and how the sign up is so you can see here
+
+06:32.520 --> 06:38.040
+are different strengths like like drawers is the biggest store variety of products to select from already
+
+06:38.040 --> 06:42.060
+established well-known guard and wish list are powerful.
+
+06:42.060 --> 06:47.790
+There are very powerful features you can easily move your item to wishlist and from wishlist to cart
+
+06:48.360 --> 06:55.480
+search and many filter options because it is a very big platform and now coming to the weaknesses slowed
+
+06:55.490 --> 06:55.980
+delivery.
+
+06:56.010 --> 07:01.850
+So I have seen I have ordered myself and hard about about its ordering problems.
+
+07:01.860 --> 07:09.240
+That and this delivery is very slow sometimes it takes 7 days sometimes 5 sometimes 10 days sometimes
+
+07:09.330 --> 07:12.970
+you even don't get your product even for a month.
+
+07:14.210 --> 07:15.230
+Too many suppliers.
+
+07:15.230 --> 07:17.330
+Quality is insurance is not good.
+
+07:17.330 --> 07:26.690
+So there are too many shops that are supplying on drugs so it is a very messy with suppliers.
+
+07:27.060 --> 07:34.440
+When we go to check out there was no clear payment method selection selection section so it was difficult
+
+07:34.440 --> 07:41.520
+for the user to see which method should I select or it is it selected or not.
+
+07:41.820 --> 07:46.890
+No option for to filter by fabric time which is our main.
+
+07:46.920 --> 07:50.840
+You can say aha moment for filtering.
+
+07:50.850 --> 07:57.140
+We are going to add this fabric dye filtering to our website which is frankly an e-commerce store then
+
+07:57.140 --> 07:58.420
+we have sharp hive.
+
+07:58.610 --> 08:00.820
+There are different strengths and weaknesses.
+
+08:00.830 --> 08:02.640
+Similarly from yellow.
+
+08:02.750 --> 08:11.190
+So the main layout of this whole competitive analysis will be competitors and some of their description.
+
+08:11.240 --> 08:14.350
+If you can use the online you are that is okay.
+
+08:15.450 --> 08:17.370
+Then we have some of the strengths.
+
+08:17.370 --> 08:18.960
+Then we have some of the weaknesses.
+
+08:18.990 --> 08:25.600
+So this is actually the main template for your competitive analysis.
+
+08:25.600 --> 08:29.310
+Let's let me show you one more template extensible.
+
+08:29.310 --> 08:32.710
+I have already shown you this app and you can see over here.
+
+08:32.710 --> 08:35.580
+Here is again we have competitive analysis.
+
+08:35.580 --> 08:42.950
+And here we have you can say our top down layout for the same thing we did image of the competitor of
+
+08:42.960 --> 08:44.260
+logo with here.
+
+08:44.280 --> 08:49.400
+Then we have complete a name location size of the company that how big is it.
+
+08:49.590 --> 08:55.680
+For example like the last dot com authorized are big in my case it was the biggest very big online store
+
+08:56.060 --> 09:03.510
+and then some of the description if you can use the jurors on the Web you can use that product photo
+
+09:03.510 --> 09:06.370
+if you want to list over here.
+
+09:06.430 --> 09:13.680
+And then again the main area or section which is strength and weaknesses so weaknesses are the things
+
+09:13.680 --> 09:17.070
+we have we are going to learn and we are going to grow from this.
+
+09:17.130 --> 09:20.670
+We are going to learn from the weaknesses of others.
+
+09:20.760 --> 09:24.480
+This is how we are going to improve our user experience.
+
+09:24.510 --> 09:28.870
+Okay so here is another section which which is called market breakdown.
+
+09:28.920 --> 09:33.240
+It is showing us the kind of competitor we are dealing with.
+
+09:33.240 --> 09:40.140
+So whether it's a very premium budget you can say that it is very costly to build something like that
+
+09:40.630 --> 09:46.950
+but it is business to business or business to consumer kind of competition or Web site or e-commerce
+
+09:47.220 --> 09:51.690
+whether it's e-commerce retail local or global services or products.
+
+09:51.690 --> 09:52.870
+What are the selling.
+
+09:52.950 --> 09:53.870
+So things like that.
+
+09:53.870 --> 10:00.270
+It is just to get the estimate of how much costly the competitor is if you will want to build something
+
+10:00.270 --> 10:02.880
+similar it will be very costly or things like that.
+
+10:02.880 --> 10:10.440
+So this is main template if you want to see it is going to be an extension of upside competitive comprehensive
+
+10:10.470 --> 10:17.340
+analysis and that is going to sum up my this lesson which I think is really important.
+
+10:17.370 --> 10:22.440
+You need to compare your products with others similar products to see where we can improve where we
+
+10:22.440 --> 10:29.190
+can have some standard function which others are expecting our users are expecting that checkout should
+
+10:29.190 --> 10:35.190
+have these many steps or these many options which is industry standards we are going to find these two
+
+10:35.190 --> 10:39.650
+things industry standards and weaknesses where we can improve.
+
+10:39.750 --> 10:42.240
+So that is all about competitive analysis.
+
+10:42.240 --> 10:45.930
+I think we should move on to the next N.S.A..

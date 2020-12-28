@@ -1,0 +1,130 @@
+WEBVTT
+
+00:04.440 --> 00:10.500
+Now here is another thing we will be doing in our user expense design process which is hierarchical
+
+00:10.980 --> 00:12.920
+task inventory.
+
+00:12.930 --> 00:13.180
+Okay.
+
+00:13.190 --> 00:20.910
+Now don't get confused with this term and don't think that this is very difficult or this is very simple.
+
+00:21.780 --> 00:23.070
+And why we do it.
+
+00:23.070 --> 00:30.340
+We are actually building all the different tasks a user can perform or a work rule for example an administrator
+
+00:30.360 --> 00:37.670
+can perform in our system in our app in our e-commerce store or whatever we are building.
+
+00:37.670 --> 00:44.190
+OK so we are actually building a hierarchical structure hierarchical structure of all the different
+
+00:44.190 --> 00:50.500
+tasks a user can or persona can do within our system.
+
+00:50.520 --> 00:53.010
+So this is actually our boundary diagram.
+
+00:53.010 --> 01:00.530
+We are defining the boundary of our system that these are the tasks that users can only do.
+
+01:00.540 --> 01:08.640
+He cannot do other task or anything as for example in our case a shopper or a busy mom or our personas
+
+01:08.640 --> 01:15.270
+that are going to be our customers can browse products search products filter products add to Card Act
+
+01:15.270 --> 01:17.010
+or wishlist et cetera.
+
+01:17.070 --> 01:21.540
+So actually we are defining the boundaries that this user can do these many things.
+
+01:21.600 --> 01:27.420
+So we are going to decide later on that which features we are going to build or not add to wish and
+
+01:27.420 --> 01:28.410
+things like that so.
+
+01:28.420 --> 01:34.610
+So these are the things he or she can do log in sign up and other task inventory items.
+
+01:34.610 --> 01:37.380
+So we are actually defining the whole boundary of our system.
+
+01:37.380 --> 01:38.460
+This is very important.
+
+01:38.790 --> 01:46.590
+So our developers or our development team they go they don't go into wrong directions and try to build
+
+01:46.590 --> 01:52.500
+something else which we are not including in the task inventory.
+
+01:52.530 --> 02:00.240
+Now this task inventory is actually providing all the different task user is needs and needs to perform
+
+02:00.600 --> 02:01.740
+to achieve their goals.
+
+02:01.740 --> 02:07.740
+So this is actually what we have listed in our user stories and we are going to build all different
+
+02:07.740 --> 02:12.870
+task from there and we can also break up these tasks into sub tasks.
+
+02:12.880 --> 02:22.790
+So there could be two tasks under one task so we can do that to now here is a task hierarchical model
+
+02:22.790 --> 02:30.410
+for our shopper which is our work role and you can say we have different personas within that but this
+
+02:30.440 --> 02:36.410
+these are actually all the tasks they can do a shopper can search look a dress view product ideas Add
+
+02:36.410 --> 02:42.760
+to Cart logon enter order details like address phone numbers and things like that.
+
+02:42.770 --> 02:49.160
+Then we have checkout then we have you can see sub tasks for checkout on the right we have one point
+
+02:49.190 --> 02:55.010
+eight point one which is checkout via email and checkout why a phone number so there are two dos subtypes
+
+02:55.040 --> 03:01.660
+within this checkout then we have create our account to order which is sign up creating a new account.
+
+03:01.790 --> 03:06.260
+Add to Favorites our wish list then we have post comments or reviews.
+
+03:06.260 --> 03:11.810
+So these are all the things they are going to define our system boundary that these are the tasks are
+
+03:11.810 --> 03:18.830
+user by shopper can perform similarly we can build the same model for our administrator of the site
+
+03:19.220 --> 03:26.840
+for our C or the person who is going to see the reports sales reports that will be different set of
+
+03:26.840 --> 03:28.130
+tasks for them.
+
+03:28.130 --> 03:34.700
+So we this is actually called hierarchical task inventory and this is this is going to tell us what
+
+03:34.700 --> 03:37.170
+is the boundary of our system.
+
+03:37.180 --> 03:41.370
+These are the tasks we are going to build so that is all.
+
+03:41.380 --> 03:47.340
+If you have any questions do ask me about this task inventory diagram I hope you have enjoyed this lesson.
+
+03:47.350 --> 03:48.910
+Let's move on to the next lesson.
